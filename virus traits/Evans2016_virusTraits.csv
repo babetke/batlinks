@@ -1,0 +1,38 @@
+virus,code,group,africa,middleEast,australia,pacific,asia,europe,northAmeria,southAmerica,clade,yearIsolated,otherArthropod,mutatedEnvelope,hostBreadth,human,primate,rodent,otherMammal,bird,marsupial,encephalitis,fever,diseaseSeverity,genomeLength
+Alfuy virus,ALFV,Jap_Enceph,0,0,1,0,0,0,0,0,XIV,1966,0,,1,0,,,,1,,0,0,0,
+Bagaza virus,BAGV,Ntaya,1,0,0,0,0,0,0,0,XI,1984,0,,1,0,,,,1,,0,0,0,10782.21
+Banzi virus,BANV,Yell_Fev,1,0,0,0,0,0,0,0,VI,1956,0,1,3,1,,1,1,,,0,1,2,10182
+Bouboui virus,BOUV,Yell_Fev,1,0,0,0,0,0,0,0,VI,1967,0,1,2,0,1,,1,,,0,0,0,10173
+Bussuquara virus,BSQV,Aroa,0,0,0,0,0,0,0,1,XII,1956,0,,3,1,1,1,,,,0,1,1,10815
+Dengue type 1,DENV-1,Dengue,1,1,1,1,1,1,1,1,IX,1944,0,,2,1,1,,,,,0,1,5,10646.82
+Dengue type 2,DENV-2,Dengue,1,1,1,1,1,1,1,1,IX,1944,0,0,2,1,1,,,,,0,1,5,10662.6
+Dengue type 3,DENV-3,Dengue,1,1,1,1,1,1,1,1,IX,1956,0,,2,1,1,,,,,0,1,5,10648.94
+Dengue type 4,DENV-4,Dengue,1,0,1,1,1,1,1,1,IX,1956,0,,2,1,1,,,,,0,1,5,10604.89
+Edge Hill virus,EHV,Yell_Fev,0,0,1,0,0,0,0,0,VI,1969,0,1,2,1,,,,,1,0,1,1,10206
+Iguape virus,IGUV,Aroa,0,0,0,0,0,0,0,1,XII,1979,0,,1,0,,,,1,,0,0,0,
+Ilheus virus,ILHV,Ntaya,0,0,0,0,0,0,0,1,XI,1944,0,,3,1,1,,,1,,0,1,3,10765.75
+Israel turkey meningoencephalomyelitis virus,ITV,Ntaya,1,1,0,0,0,0,0,0,XI,1959,1,,1,0,,,,1,,0,0,0,
+Japanese encephalitis virus,JEV,Jap_Enceph,0,0,0,1,1,0,0,0,XIV,1935,0,,3,1,,,1,1,,1,0,7,10947.35
+Jugra virus,JUGV,Yell_Fev,0,0,0,0,1,0,0,0,VI,1968,0,1,0,0,,,,,,0,0,0,10173
+Kedougou virus,KEDV,Dengue,1,0,0,0,0,0,0,0,,1972,0,0,1,1,,,,,,0,0,,10557.67
+Kokobera virus,KOKV,Kokobera,0,0,1,0,1,0,0,0,XIII,1960,0,,2,1,,,,,1,0,1,1,10685.71
+Koutango virus,KOUV,Jap_Enceph,1,0,0,0,0,0,0,0,,1968,1,,1,0,,1,,,,0,1,2,10302
+Kunjin,KUNV,Jap_Enceph,0,0,1,0,1,0,0,0,XIV,1960,0,,2,1,,,,1,,0,1,4,
+Murray Valley encephalitis virus,MVEV,Jap_Enceph,0,0,1,0,0,0,0,0,XIV,1951,0,,2,1,,,,1,,1,0,6,10994.53
+Naranjal,NJLV,Aroa,0,0,0,0,0,0,0,1,XII,1976,0,,1,0,,1,,,,0,0,0,
+New Mapoon virus,NMV,Kokobera,0,0,1,1,0,0,0,0,,1998,0,,0,0,,,,,,0,0,0,
+Ntaya virus,NTAV,Ntaya,1,0,0,0,0,0,0,0,XI,1943,0,,0,0,,,,,,0,0,0,10723.33
+Rocio virus,ROCV,Ntaya,0,0,0,0,0,0,0,1,XI,1975,0,,2,1,,,,1,,1,0,6,
+Saboya virus,SABV,Yell_Fev,1,0,0,0,0,0,0,0,VI,1968,1,1,1,0,,1,,,,0,0,0,10173
+Sepik virus,SEPV,Yell_Fev,0,0,1,0,0,0,0,0,VII,1966,0,0,1,1,,,,,,0,1,1,10505
+Spondweni virus,SPOV,Spondweni,1,0,0,0,0,0,0,0,X,1955,0,0,1,1,,,,,,0,1,2,10290
+St. Louis encephalitis virus,SLEV,Jap_Enceph,0,0,0,0,0,0,1,1,XI,1933,0,,2,1,,,,1,,1,0,6,10846.42
+Stratford virus,STRV,Kokobera,0,0,1,0,0,0,0,0,XIII,1961,0,,1,0,,,,,1,0,0,0,
+Tembusu virus,TMUV,Ntaya,0,0,0,0,1,0,0,0,XI,1955,0,,0,0,,,,,,0,0,0,10881.4
+Uganda S virus,UGSV,Yell_Fev,1,0,0,0,0,0,0,0,VI,1947,0,1,2,0,1,,,1,,0,0,0,10182
+Usutu virus,USUV,Jap_Enceph,1,0,0,0,0,1,0,0,XIV,1959,0,,1,0,,,,1,,0,0,0,11049.42
+Wesselsbron virus,WESSV,Yell_Fev,1,0,0,0,1,0,0,0,NA,1955,1,0,2,1,,,1,,,0,1,3,10665
+West Nile virus,WNV,Jap_Enceph,1,1,1,1,1,1,1,1,XIV,1937,1,,2,1,,,,1,,1,0,4,10849.8
+Yaounde virus,YAOV,Jap_Enceph,1,0,0,0,0,0,0,0,XIV,1968,0,,2,0,,1,,1,,0,0,0,10293
+Yellow fever virus,YFV,Yell_Fev,1,0,0,0,0,0,0,1,VII,1927,0,,2,1,1,,,,,0,1,7,10821.21
+Zika virus,ZIKV,Spondweni,1,0,0,1,1,0,0,1,X,1947,0,0,2,1,1,,,,,0,1,3,10616.81

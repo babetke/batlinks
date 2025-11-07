@@ -1,0 +1,2207 @@
+pathogenid,direct,direct_sexual,direct_vertical,indirect,fecal_oral,ingestion,inhalation,environment,vector,name
+2211153,1,0,0,0,1,1,1,0,0,artibeus lituratus adenovirus
+2301493,1,0,0,0,1,1,1,0,0,black lemur adenovirus 1
+2301494,1,0,0,0,1,1,1,0,0,black lemur adenovirus 2
+2301495,1,0,0,0,1,1,1,0,0,black lemur adenovirus 3
+2301496,1,0,0,0,1,1,1,0,0,black-and-white ruffed lemur adenovirus
+3607027,1,0,0,0,1,1,1,0,0,bovine adenovirus e
+27589153,1,0,0,0,1,1,1,0,0,brown long-eared bat adenovirus 1
+2259112,1,0,0,0,1,1,1,0,0,california sea lion adenovirus
+1916691,1,0,0,0,1,1,1,0,0,cercopithecus campbelli adenovirus
+1916692,1,0,0,0,1,1,1,0,0,cercopithecus diana adenovirus
+1916693,1,0,0,0,1,1,1,0,0,chlorocebus sabaeus adenovirus
+1916694,1,0,0,0,1,1,1,0,0,colobus guereza adenovirus
+2301497,1,0,0,0,1,1,1,0,0,common marmoset adenovirus
+27589155,1,0,0,0,1,1,1,0,0,common noctule adenovirus 1
+27309390,1,0,0,0,1,1,1,0,0,common noctule adenovirus 2
+27309392,1,0,0,0,1,1,1,0,0,common noctule adenovirus 3
+27309394,1,0,0,0,1,1,1,0,0,common pipistrelle adenovirus 2
+27589141,1,0,0,0,1,1,1,0,0,common pipistrelle adenovirus 3
+27589143,1,0,0,0,1,1,1,0,0,common pipistrelle adenovirus 4
+2301498,1,0,0,0,1,1,1,0,0,common squirell monkey adenovirus 1
+2301499,1,0,0,0,1,1,1,0,0,common squirell monkey adenovirus 2
+2301500,1,0,0,0,1,1,1,0,0,common squirell monkey adenovirus 3
+2301501,1,0,0,0,1,1,1,0,0,cotton-top tamarin adenovirus
+2301502,1,0,0,0,1,1,1,0,0,crowned lemur adenovirus
+26745933,1,0,0,0,1,1,1,0,0,dolphin adenovirus 1
+2301503,1,0,0,0,1,1,1,0,0,eastern lesser bamboo lemur adenovirus
+27786484,1,0,0,0,1,1,1,0,0,eidolon helvum adenovirus 1
+27786486,1,0,0,0,1,1,1,0,0,eidolon helvum adenovirus 2
+27744671,1,0,0,0,1,1,1,0,0,eidolon helvum adenovirus 3
+1916695,1,0,0,0,1,1,1,0,0,erythrocebus patas adenovirus
+2067749,1,0,0,0,1,1,1,0,0,felis catus adenovirus
+27589145,1,0,0,0,1,1,1,0,0,geoffroy's bat adenovirus 1
+2301504,1,0,0,0,1,1,1,0,0,golden-headed lion tamarin adenovirus
+1916696,1,0,0,0,1,1,1,0,0,gorilla gorilla adenovirus
+26205610,1,0,0,0,1,1,1,0,0,gorilla gorilla adenovirus b23
+2301505,1,0,0,0,1,1,1,0,0,gray-bellied night monkey adenovirus
+27309396,1,0,0,0,1,1,1,0,0,greater horseshoe bat adenovirus 1
+27589157,1,0,0,0,1,1,1,0,0,greater mouse-eared bat adenovirus 1
+27589159,1,0,0,0,1,1,1,0,0,grey long-eared bat adenovirus 1
+26201282,1,0,0,0,1,1,1,1,0,gull adenovirus
+27501722,1,0,0,0,1,1,1,0,0,kowari adenovirus
+27589147,1,0,0,0,1,1,1,0,0,kuhl's pipistrelle adenovirus 1
+2301506,1,0,0,0,1,1,1,0,0,lemur adenovirus
+27589161,1,0,0,0,1,1,1,0,0,lesser horseshoe bat adenovirus 1
+27589163,1,0,0,0,1,1,1,0,0,lesser mouse-eared bat adenovirus 1
+27309398,1,0,0,0,1,1,1,0,0,lesser noctule adenovirus 1
+27309400,1,0,0,0,1,1,1,0,0,lesser noctule adenovirus 2
+27309402,1,0,0,0,1,1,1,0,0,lesser noctule adenovirus 3
+27309404,1,0,0,0,1,1,1,0,0,lesser noctule adenovirus 4
+1916697,1,0,0,0,1,1,1,0,0,lophocebus aterrimus adenovirus
+1916698,1,0,0,0,1,1,1,0,0,mandrillus sphinx adenovirus
+27309382,1,0,0,0,1,1,1,0,0,mediterranean horseshoe bat adenovirus 1
+27309384,1,0,0,0,1,1,1,0,0,mediterranean horseshoe bat adenovirus 2
+27309386,1,0,0,0,1,1,1,0,0,mediterranean horseshoe bat adenovirus 3
+27309388,1,0,0,0,1,1,1,0,0,mediterranean horseshoe bat adenovirus 4
+27589149,1,0,0,0,1,1,1,0,0,nathusius's pipistrelle adenovirus 1
+27589151,1,0,0,0,1,1,1,0,0,northern bat adenovirus 1
+1916699,1,0,0,0,1,1,1,0,0,pan troglodytes adenovirus
+1916700,1,0,0,0,1,1,1,0,0,papio hamadryas adenovirus
+27589165,1,0,0,0,1,1,1,0,0,particoloured bat adenovirus 1
+27589167,1,0,0,0,1,1,1,0,0,pond bat adenovirus 1
+27533647,1,0,0,0,1,1,1,1,0,psittacine adenovirus 2
+27473108,1,0,0,0,1,1,1,0,0,rattus losea adenovirus
+26303144,1,0,0,0,1,1,1,0,0,rattus norvegicus adenovirus
+27704971,1,0,0,0,1,1,1,0,0,rattus tanezumi adenovirus
+2301509,1,0,0,0,1,1,1,0,0,red-bellied tamarin adenovirus
+2301510,1,0,0,0,1,1,1,0,0,red-faced spider monkey adenovirus
+2108209,1,0,0,0,1,1,1,0,0,rhinolophus pusillus adenovirus
+2301517,1,0,0,0,1,1,1,0,0,ring tailer lemur adenovirus
+2050010,1,0,0,0,1,1,1,0,0,rodent adenovirus
+2170312,1,0,0,0,1,1,1,0,0,schreiber's bent-winged bat adenovirus
+27722107,1,0,0,0,1,1,1,0,0,sea otter adenovirus 1
+27589169,1,0,0,0,1,1,1,0,0,serotine bat adenovirus 1
+27589171,1,0,0,0,1,1,1,0,0,serotine bat adenovirus 2
+2050011,1,0,0,0,1,1,1,0,0,shrew adenovirus
+27589173,1,0,0,0,1,1,1,0,0,soprano pipistrelle adenovirus 1
+27309406,1,0,0,0,1,1,1,0,0,soprano pipistrelle adenovirus 2
+27309408,1,0,0,0,1,1,1,0,0,soprano pipistrelle adenovirus 3
+27309410,1,0,0,0,1,1,1,0,0,soprano pipistrelle adenovirus 4
+27704973,1,0,0,0,1,1,1,0,0,sorex araneus adenovirus
+2211155,1,0,0,0,1,1,1,0,0,sturnira lilium adenovirus
+2301518,1,0,0,0,1,1,1,0,0,tufted capuchin adenovirus 1
+2301519,1,0,0,0,1,1,1,0,0,tufted capuchin adenovirus 2
+2301520,1,0,0,0,1,1,1,0,0,tufted capuchin adenovirus 3
+27309412,1,0,0,0,1,1,1,1,0,vespertilionid adenovirus 1
+27589175,1,0,0,0,1,1,1,1,0,vespertilionid adenovirus 2
+27589177,1,0,0,0,1,1,1,0,0,vespertilionid adenovirus 3
+27589179,1,0,0,0,1,1,1,0,0,vespertilionid adenovirus 4
+3800077,1,0,0,0,1,1,1,0,0,bovine adenovirus f
+3607026,1,0,0,0,1,1,1,0,0,bovine atadenovirus d
+3800073,1,0,0,0,1,1,1,0,0,cervine adenovirus
+3526822,1,0,0,0,1,1,1,0,0,deer atadenovirus a
+3606858,1,1,0,0,1,1,1,0,0,duck adenovirus a
+3606857,1,0,0,0,1,1,1,0,0,ovine adenovirus d
+3599191,1,0,0,0,1,1,1,0,0,possum atadenovirus a
+27614371,1,0,0,0,1,1,1,0,0,psittacine atadenovirus a
+2233538,1,0,0,0,1,1,1,1,0,duck adenovirus 3
+26323132,1,0,0,0,1,1,1,1,0,duck aviadenovirus b
+4071680,1,0,0,0,1,1,1,1,0,falcon aviadenovirus a
+26201222,1,0,1,0,1,1,1,1,0,fowl adenovirus
+3645362,1,0,0,0,1,1,1,1,0,fowl adenovirus 12
+3661403,1,0,0,0,1,1,1,1,0,fowl aviadenovirus a
+3661404,1,1,0,0,1,1,1,1,0,fowl aviadenovirus b
+3661405,1,0,0,0,1,1,1,1,0,fowl aviadenovirus c
+3661406,1,1,0,0,1,1,1,1,0,fowl aviadenovirus d
+3661407,1,1,0,0,1,1,1,1,0,fowl aviadenovirus e
+27328396,1,0,0,0,1,1,1,1,0,goose adenovirus 5
+1193420,1,0,0,0,1,1,1,1,0,goose aviadenovirus a
+2023337,1,0,0,0,1,1,1,1,0,marten adenovirus type 1
+3742890,1,0,0,0,1,1,1,1,0,meyer's parrot adenovirus 1
+2086357,1,0,0,0,1,1,1,1,0,neotropic cormorant aviadenovirus
+1924072,1,0,0,0,1,1,1,1,0,pigeon adenovirus 2a
+27501006,1,0,0,0,1,1,1,1,0,pigeon adenovirus 2b
+27501008,1,0,0,0,1,1,1,1,0,pigeon adenovirus 3
+27501010,1,0,0,0,1,1,1,1,0,pigeon adenovirus 4
+27501012,1,0,0,0,1,1,1,1,0,pigeon adenovirus 5
+4113403,1,0,0,0,1,1,1,1,0,pigeon aviadenovirus a
+2169708,1,0,0,0,1,1,1,1,0,pigeon aviadenovirus b
+3774715,1,1,0,0,1,1,1,1,0,psittacine adenovirus 1
+2169709,1,0,0,0,1,1,1,1,0,psittacine aviadenovirus b
+4174255,1,0,0,0,1,1,1,1,0,turkey aviadenovirus 2
+26553117,1,0,0,0,1,1,1,1,0,turkey aviadenovirus b
+27551243,1,0,0,0,1,1,1,1,0,turkey aviadenovirus c
+27551245,1,0,0,0,1,1,1,1,0,turkey aviadenovirus d
+4095380,1,0,0,0,1,1,1,1,0,bat mastadenovirus
+4094761,1,0,0,0,1,1,1,1,0,bat mastadenovirus a
+4074303,1,0,0,0,1,1,1,1,0,bat mastadenovirus b
+26205210,1,0,0,0,1,1,1,1,0,bat mastadenovirus c
+26205206,1,0,0,0,1,1,1,1,0,bat mastadenovirus d
+26205208,1,0,0,0,1,1,1,1,0,bat mastadenovirus e
+2015376,1,0,0,0,1,1,1,1,0,bat mastadenovirus g
+3606499,1,0,0,0,1,1,1,1,0,bovine mastadenovirus a
+3606496,1,0,0,0,1,1,1,1,0,bovine mastadenovirus b
+3606498,1,0,0,0,1,1,1,1,0,bovine mastadenovirus c
+3435054,1,0,0,0,1,1,1,1,0,canine mastadenovirus a
+3839071,1,0,0,0,1,1,1,1,0,caprine adenovirus 2
+3767266,1,0,0,0,1,1,1,1,0,chimpanzee adenovirus
+27826154,1,0,0,0,1,1,1,1,0,chinstrap penguin adenovirus 1
+27826156,1,0,0,0,1,1,1,1,0,chinstrap penguin adenovirus 2
+27767977,1,0,0,0,1,1,1,1,0,chinstrap penguin adenovirus 3
+27767979,1,0,0,0,1,1,1,1,0,chinstrap penguin adenovirus 4
+27767981,1,0,0,0,1,1,1,1,0,chinstrap penguin adenovirus 5
+27767983,1,0,0,0,1,1,1,1,0,chinstrap penguin adenovirus 6
+27826158,1,0,0,0,1,1,1,1,0,chinstrap penguin adenovirus 7
+27826160,1,0,0,0,1,1,1,1,0,chinstrap penguin adenovirus 8
+24643278,1,0,0,0,1,1,1,1,0,colobus guereza adenovirus 1
+24643279,1,0,0,0,1,1,1,1,0,colobus guereza adenovirus 2
+24643280,1,0,0,0,1,1,1,1,0,colobus guereza adenovirus 3
+2170000,1,0,0,0,1,1,1,1,0,deer mastadenovirus b
+27725305,1,0,0,0,1,1,1,1,0,desmodus rotundus adenovirus 1
+27725307,1,0,0,0,1,1,1,1,0,desmodus rotundus adenovirus 2
+1986025,1,0,0,0,1,1,1,1,0,dolphin mastadenovirus a
+26745985,1,0,0,0,1,1,1,1,0,dolphin mastadenovirus b
+3606500,1,0,0,0,1,1,1,1,0,equine mastadenovirus a
+3606501,1,0,0,0,1,1,1,1,0,equine mastadenovirus b
+26205544,1,0,0,0,1,1,1,1,0,gorilla beringei beringei adenovirus 7
+26205546,1,0,0,0,1,1,1,1,0,gorilla beringei graueri adenovirus 8
+26205548,1,0,0,0,1,1,1,1,0,gorilla beringei graueri adenovirus 9
+24643281,1,0,0,0,1,1,1,1,0,gorilla gorilla beringei adenovirus 3
+24643282,1,0,0,0,1,1,1,1,0,gorilla gorilla beringei adenovirus 4
+24643283,1,0,0,0,1,1,1,1,0,gorilla gorilla beringei adenovirus 5
+24643284,1,0,0,0,1,1,1,1,0,gorilla gorilla beringei adenovirus 6
+24643285,1,0,0,0,1,1,1,1,0,gorilla gorilla gorilla adenovirus 1
+24643286,1,0,0,0,1,1,1,1,0,gorilla gorilla gorilla adenovirus 2
+3473911,1,0,0,0,1,1,1,1,0,guinea pig adenovirus
+1958807,1,0,0,0,1,1,1,1,0,harbour porpoise adenovirus 1
+2358482,1,0,0,0,1,1,1,1,0,howler monkey adenovirus 1
+3606423,1,0,0,0,1,1,1,1,0,human mastadenovirus a
+3578842,1,0,0,0,1,1,1,1,0,human mastadenovirus b
+3606497,1,0,0,0,1,1,1,1,0,human mastadenovirus c
+3606842,1,0,0,0,1,1,1,1,0,human mastadenovirus d
+3606840,1,0,0,0,1,1,1,1,0,human mastadenovirus e
+3606841,1,0,0,0,1,1,1,1,0,human mastadenovirus f
+3967246,1,0,0,0,1,1,1,1,0,human mastadenovirus g
+2023343,1,0,0,0,1,1,1,1,0,lutrine adenovirus type 1
+24643287,1,0,0,0,1,1,1,1,0,macaca fascicularis adenovirus 1
+24643288,1,0,0,0,1,1,1,1,0,macaca mulatta adenovirus 1
+2023342,1,0,0,0,1,1,1,1,0,marten adenovirus type 2
+3606502,1,0,0,0,1,1,1,1,0,murine mastadenovirus a
+4214424,1,0,0,0,1,1,1,1,0,murine mastadenovirus b
+4074885,1,0,0,0,1,1,1,1,0,murine mastadenovirus c
+27728883,1,0,0,0,1,1,1,1,0,otarine adenovirus
+1204570,1,0,0,0,1,1,1,1,0,otarine adenovirus 2
+3839067,1,0,0,0,1,1,1,1,0,ovine adenovirus c
+3589338,1,0,0,0,1,1,1,1,0,ovine mastadenovirus a
+3839069,1,0,0,0,1,1,1,1,0,ovine mastadenovirus b
+3872677,1,0,0,0,1,1,1,1,0,pan troglodytes adenovirus type 3
+3872679,1,0,0,0,1,1,1,1,0,pan troglodytes adenovirus type 63
+24643289,1,0,0,0,1,1,1,1,0,pan troglodytes schweinfurthii adenovirus 1
+24643290,1,0,0,0,1,1,1,1,0,pan troglodytes schweinfurthii adenovirus 10
+24643291,1,0,0,0,1,1,1,1,0,pan troglodytes schweinfurthii adenovirus 11
+24643292,1,0,0,0,1,1,1,1,0,pan troglodytes schweinfurthii adenovirus 12
+24643293,1,0,0,0,1,1,1,1,0,pan troglodytes schweinfurthii adenovirus 13
+24643294,1,0,0,0,1,1,1,1,0,pan troglodytes schweinfurthii adenovirus 14
+24643295,1,0,0,0,1,1,1,1,0,pan troglodytes schweinfurthii adenovirus 2
+24643296,1,0,0,0,1,1,1,1,0,pan troglodytes schweinfurthii adenovirus 6
+24643297,1,0,0,0,1,1,1,1,0,pan troglodytes schweinfurthii adenovirus 7
+24643298,1,0,0,0,1,1,1,1,0,pan troglodytes schweinfurthii adenovirus 9
+24643299,1,0,0,0,1,1,1,1,0,pan troglodytes verus adenovirus 3
+24643300,1,0,0,0,1,1,1,1,0,pan troglodytes verus adenovirus 4
+24643301,1,0,0,0,1,1,1,1,0,pan troglodytes verus adenovirus 5
+24643302,1,0,0,0,1,1,1,1,0,pan troglodytes verus adenovirus 8
+24643303,1,0,0,0,1,1,1,1,0,papio hamadryas adenovirus 1
+26747509,1,0,0,0,1,1,1,1,0,phocine adenovirus 1
+26747511,1,0,0,0,1,1,1,1,0,phocine adenovirus 2
+24653183,1,0,0,0,1,1,1,1,0,phocoena adenovirus 1
+24643304,1,0,0,0,1,1,1,1,0,piliocolobus badius adenovirus 1
+24643305,1,0,0,0,1,1,1,1,0,piliocolobus badius adenovirus 2
+24643306,1,0,0,0,1,1,1,1,0,piliocolobus badius adenovirus 3
+24581772,1,0,0,0,1,1,1,1,0,platyrrhini mastadenovirus a
+2250215,1,0,0,0,1,1,1,1,0,polar bear mastadenovirus 1
+3589160,1,0,0,0,1,1,1,1,0,porcine adenovirus
+3606899,1,0,0,0,1,1,1,1,0,porcine mastadenovirus a
+3606900,1,0,0,0,1,1,1,1,0,porcine mastadenovirus b
+3606901,1,0,0,0,1,1,1,1,0,porcine mastadenovirus c
+1967296,1,0,0,0,1,1,1,1,0,rousettus aegyptiacus adenovirus
+24653182,1,0,0,0,1,1,1,1,0,saguinus adenovirus 1
+4220432,1,0,0,0,1,1,1,1,0,sea lion mastadenovirus a
+26205464,1,0,0,0,1,1,1,1,0,simian adenovirus 12
+26205460,1,0,0,0,1,1,1,1,0,simian adenovirus 15
+3457372,1,0,0,0,1,1,1,1,0,simian adenovirus 19
+3457374,1,0,0,0,1,1,1,1,0,simian adenovirus 2
+26205462,1,0,0,0,1,1,1,1,0,simian adenovirus 5
+3860544,1,0,0,0,1,1,1,1,0,simian adenovirus 8
+26205398,1,0,0,0,1,1,1,1,0,simian adenovirus b
+3756223,1,0,0,0,1,1,1,1,0,simian mastadenovirus a
+4251331,1,0,0,0,1,1,1,1,0,simian mastadenovirus b
+26205434,1,0,0,0,1,1,1,1,0,simian mastadenovirus c
+3457386,1,0,0,0,1,1,1,1,0,simian mastadenovirus d
+26205458,1,0,0,0,1,1,1,1,0,simian mastadenovirus e
+4197214,1,0,0,0,1,1,1,1,0,simian mastadenovirus f
+24322783,1,0,0,0,1,1,1,1,0,simian mastadenovirus g
+26205442,1,0,0,0,1,1,1,1,0,simian mastadenovirus h
+2170002,1,0,0,0,1,1,1,1,0,simian mastadenovirus i
+27372179,1,0,0,0,1,1,1,1,0,skunk mastadenovirus a
+2170003,1,0,0,0,1,1,1,1,0,squirrel mastadenovirus a
+3709001,1,0,0,0,1,1,1,1,0,tree shrew mastadenovirus a
+2562198,1,0,0,0,1,1,1,1,0,weasel adenovirus 1
+4016616,1,0,0,0,1,1,1,0,0,budgerigar adenovirus 1
+2478624,1,0,0,0,1,1,1,0,0,cockatiel adenovirus 1
+27812414,1,0,0,0,1,1,1,0,0,gouldian finch adenovirus 1
+4057831,1,0,0,0,1,1,1,0,0,great tit siadenovirus a
+2005055,1,0,0,0,1,1,1,0,0,penguin siadenovirus a
+3903648,1,0,0,0,1,1,1,0,0,plum headed parakeet adenovirus 1
+2499624,1,0,0,0,1,1,1,0,0,psittacine adenovirus 5
+4071573,1,0,0,0,1,1,1,0,0,raptor siadenovirus a
+24333821,1,0,0,0,1,1,1,0,0,south polar skua adenovirus-2
+24333822,1,0,0,0,1,1,1,0,0,south polar skua adenovirus-3
+24333823,1,0,0,0,1,1,1,0,0,south polar skua adenovirus-4
+24333824,1,0,0,0,1,1,1,0,0,south polar skua adenovirus-5
+24333825,1,0,0,0,1,1,1,0,0,south polar skua adenovirus-6
+3756222,1,0,0,0,1,1,1,0,0,turkey siadenovirus a
+3435001,1,0,0,1,0,1,0,1,1,african swine fever virus
+27445706,1,0,0,0,0,0,0,0,0,balaenoptera physalus alphaherpesvirus
+26745927,1,0,0,0,0,0,0,0,0,beluga whale alphaherpesvirus 1
+3577573,1,0,0,0,0,0,0,0,0,bottlenose dolphin herpesvirus
+4054284,1,1,0,0,0,0,0,0,0,delphinid herpesvirus 2
+4054285,1,0,0,0,0,0,0,0,0,delphinid herpesvirus 8
+27445738,1,0,0,0,0,0,0,0,0,delphinus delphis alphaherpesvirus
+4040840,1,0,0,0,0,0,0,0,0,false killer whale alphaherpesvirus
+24322581,1,0,0,0,0,0,0,0,0,fregata magnificens herpesvirus
+27688973,1,0,0,0,0,0,0,0,0,grampus griseus alphaherpesvirus
+27246142,1,0,0,0,0,0,0,0,0,lagenorhynchus alphaherpesvirus 1
+27483739,1,0,0,0,0,0,0,0,0,marten alphaherpesvirus
+4040841,1,0,0,0,0,0,0,0,0,melon-headed whale alphaherpesvirus
+27457902,1,1,0,0,0,0,0,0,0,penguin herpesvirus 2
+26745993,1,1,0,0,0,0,0,0,0,phocoena phocoena herpesvirus type 2
+26745991,1,0,0,0,0,0,1,0,0,phocoena phocoena herpesvirus type 3
+27688975,1,0,0,0,0,0,0,0,0,stenella coeruleoalba alphaherpesvirus 1
+27688977,1,1,0,0,0,0,0,0,0,stenella coeruleoalba alphaherpesvirus 2
+27368282,1,0,0,0,0,0,0,0,0,sulid herpesvirus 1
+3750466,1,0,0,0,0,0,0,0,0,tursiops truncatus alphaherpesvirus 1
+3812364,1,1,0,0,0,0,0,0,0,tursiops truncatus alphaherpesvirus 2
+3812365,1,0,0,0,0,0,1,0,0,tursiops truncatus alphaherpesvirus 3
+3745274,1,0,0,0,0,0,0,0,0,vulture herpesvirus
+27688979,1,0,0,0,0,0,0,0,0,ziphius cavirostris alphaherpesvirus 1
+27445713,1,1,0,0,0,0,0,0,0,ziphius cavirostris alphaherpesvirus 2
+3455201,1,0,1,1,0,0,0,0,0,atypical cytopathic virus
+4051168,1,0,1,1,0,0,0,0,0,bat betaherpesvirus 2
+27253618,1,0,1,1,0,0,0,0,0,capreolus herpesvirus 1
+3449617,1,0,1,1,0,0,0,0,0,caviid betaherpesvirus 2
+27271396,1,0,1,1,0,0,0,0,0,eptesicus isabellinus betaherpesvirus 1
+27271398,1,0,1,1,0,0,0,0,0,eptesicus isabellinus betaherpesvirus 2
+27741051,1,0,1,1,0,0,0,0,0,eptesicus serotinus betaherpesvirus 1
+27271400,1,0,1,1,0,0,0,0,0,hypsugo savii betaherpesvirus 1
+3619539,1,0,1,1,0,0,0,0,0,mandrillus herpesvirus beta
+27708927,1,0,1,1,0,0,0,0,0,marten betaherpesvirus
+3863693,1,0,1,1,0,0,0,0,0,miniopterus schreibersii betaherpesvirus 2
+27764677,1,0,1,1,0,0,0,0,0,miniopterus schreibersii betaherpesvirus 3
+27414256,1,0,1,1,0,0,0,0,0,myotis alcathoe betaherpesvirus 1
+27764681,1,0,1,1,0,0,0,0,0,myotis bechsteinii betaherpesvirus 1
+27541019,1,0,1,1,0,0,0,0,0,myotis daubentonii betaherpesvirus 1
+27541021,1,0,1,1,0,0,0,0,0,myotis emarginatus betaherpesvirus 1
+27385156,1,0,1,1,0,0,0,0,0,myotis myotis betaherpesvirus 1
+27271402,1,0,1,1,0,0,0,0,0,myotis mystacinus betaherpesvirus 1
+27271404,1,0,1,1,0,0,0,0,0,nyctalus lasiopterus betaherpesvirus 1
+27271406,1,0,1,1,0,0,0,0,0,nyctalus leisleri betaherpesvirus 1
+27764685,1,0,1,1,0,0,0,0,0,nyctalus noctula betaherpesvirus 1
+3750469,1,0,1,1,0,0,0,0,0,nycticebus coucang betaherpesvirus 1
+27541023,1,0,1,1,0,0,0,0,0,pipistrellus kuhlii betaherpesvirus 1
+27764707,1,0,1,1,0,0,0,0,0,pipistrellus pipistrellus betaherpesvirus 1
+27541025,1,0,1,1,0,0,0,0,0,pipistrellus pipistrellus betaherpesvirus 2
+27741053,1,0,1,1,0,0,0,0,0,pipistrellus pygmaeus betaherpesvirus 1
+27271408,1,0,1,1,0,0,0,0,0,plecotus austriacus betaherpesvirus 1
+27741055,1,0,1,1,0,0,0,0,0,plecotus austriacus betaherpesvirus 2
+27271410,1,0,1,1,0,0,0,0,0,rhinolophus ferrumequinum betaherpesvirus 2
+27741057,1,0,1,1,0,0,0,0,0,rhinolophus hipposideros betaherpesvirus 1
+27764711,1,0,1,1,0,0,0,0,0,rousettus aegyptiacus betaherpesvirus 1
+27764713,1,0,1,1,0,0,0,0,0,rousettus aegyptiacus betaherpesvirus 2
+4250817,1,0,1,1,0,0,0,0,0,sorex araneus betaherpesvirus 1
+4250818,1,0,1,1,0,0,0,0,0,sorex araneus betaherpesvirus 2
+4250819,1,0,1,1,0,0,0,0,0,sorex araneus betaherpesvirus 3
+4250820,1,0,1,1,0,0,0,0,0,sorex araneus betaherpesvirus 4
+4250821,1,0,1,1,0,0,0,0,0,sorex araneus betaherpesvirus 5
+4250822,1,0,1,1,0,0,0,0,0,sorex minutus betaherpesvirus 1
+4250823,1,0,1,1,0,0,0,0,0,sorex minutus betaherpesvirus 2
+27541027,1,0,1,1,0,0,0,0,0,tadarida teniotis betaherpesvirus 1
+27541029,1,0,1,1,0,0,0,0,0,tadarida teniotis betaherpesvirus 2
+3477913,1,0,1,1,0,0,0,0,0,aotine betaherpesvirus 1
+3877219,1,0,1,1,0,0,0,0,0,apodemus flavicollis cytomegalovirus 1
+3877220,1,0,1,1,0,0,0,0,0,apodemus flavicollis cytomegalovirus 2
+3899503,1,0,1,1,0,0,0,0,0,apodemus flavicollis cytomegalovirus 3
+3877221,1,0,1,1,0,0,0,0,0,apodemus sylvaticus cytomegalovirus 1
+3877222,1,0,1,1,0,0,0,0,0,arvicola terrestris cytomegalovirus 1
+3597999,1,1,1,1,0,0,0,0,0,baboon cytomegalovirus
+3877223,1,0,1,1,0,0,0,0,0,bandicota indica cytomegalovirus 1
+3877224,1,0,1,1,0,0,0,0,0,bandicota indica cytomegalovirus 2
+3877225,1,0,1,1,0,0,0,0,0,bandicota indica cytomegalovirus 3
+3877226,1,0,1,1,0,0,0,0,0,bandicota indica cytomegalovirus 4
+3750460,1,0,1,1,0,0,0,0,0,cercocebus agilis cytomegalovirus 1
+3477917,1,0,1,1,0,0,0,0,0,cercopithecine betaherpesvirus 5
+3765565,1,0,1,1,0,0,0,0,0,cercopithecus cephus cytomegalovirus 1
+27495294,1,0,1,1,0,0,0,0,0,cercopithecus kandti cytomegalovirus
+3673428,1,0,1,1,0,0,0,0,0,colobus badius cytomegalovirus 1
+3673430,1,0,1,1,0,0,0,0,0,colobus guereza cytomegalovirus 1
+3765566,1,0,1,1,0,0,0,0,0,crocidura russula cytomegalovirus 1
+26205614,1,0,1,1,0,0,0,0,0,gorilla beringei beringei cytomegalovirus
+3434804,1,1,1,1,0,0,0,0,0,human betaherpesvirus 5
+3765562,1,0,1,1,0,0,0,0,0,macaca fascicularis cytomegalovirus 1
+3434829,1,0,1,1,0,0,0,0,0,macaca mulatta cytomegalovirus
+3473948,1,0,1,1,0,0,0,0,0,macacine betaherpesvirus 3
+3619538,1,0,1,1,0,0,0,0,0,mandrillus cytomegalovirus
+3877227,1,0,1,1,0,0,0,0,0,microtus agrestis cytomegalovirus 1
+3877228,1,0,1,1,0,0,0,0,0,microtus arvalis cytomegalovirus 1
+3899163,1,0,1,1,0,0,0,0,0,mus cervicolor cytomegalovirus 1
+4104791,1,0,1,1,0,0,0,0,0,mus musculus cytomegalovirus 2
+3899501,1,0,1,1,0,0,0,0,0,myodes glareolus cytomegalovirus 1
+3877229,1,0,1,1,0,0,0,0,0,ondatra zibethicus cytomegalovirus 1
+3660176,1,0,1,1,0,0,0,0,0,panine betaherpesvirus 2
+3698419,1,0,1,1,0,0,0,0,0,phacochoerus africanus cytomegalovirus 1
+3673429,1,0,1,1,0,0,0,0,0,pongo pygmaeus cytomegalovirus 1
+3877230,1,0,1,1,0,0,0,0,0,rattus exulans cytomegalovirus 1
+3877231,1,0,1,1,0,0,0,0,0,rattus rattus cytomegalovirus 1
+3877232,1,0,1,1,0,0,0,0,0,rattus tiomanicus cytomegalovirus 1
+3610481,1,0,1,1,0,0,0,0,0,saimiriine herpesvirus 3
+3434812,1,0,1,1,0,0,0,0,0,simian cytomegalovirus
+4030896,1,0,1,1,0,0,0,0,0,squirrel monkey cytomegalovirus 1
+3648128,1,0,0,0,0,0,0,0,0,american bison gammaherpesvirus
+3682072,1,1,0,0,0,0,0,0,0,asinine herpesvirus 4
+3682077,1,0,0,0,0,0,0,0,0,asinine herpesvirus 5
+3682078,1,0,0,0,0,0,0,0,0,asinine herpesvirus 6
+27688969,1,0,0,0,0,0,0,0,0,balaenoptera acutorostrata gammaherpesvirus 1
+27688971,1,0,0,0,0,0,0,0,0,balaenoptera acutorostrata gammaherpesvirus 2
+26205184,1,1,0,0,0,0,0,0,0,bat gammaherpesvirus 8
+27708917,1,0,0,0,0,0,0,0,0,bighorn sheep gammaherpesvirus
+3511464,1,0,0,0,0,0,0,0,0,bovine lymphotropic herpesvirus
+26747639,1,0,0,0,0,0,0,0,0,canid herpesvirus 2
+3979193,1,0,0,0,0,0,0,0,0,cynomys herpesvirus
+3572075,1,0,0,0,0,0,0,0,0,deer malignant catarrhal fever virus
+27541063,1,0,0,0,0,0,0,0,0,elephant gammaherpesvirus 1b
+4117051,1,0,0,0,0,0,0,0,0,elephant gammaherpesvirus 2
+27467794,1,1,0,0,0,0,0,0,0,elephant gammaherpesvirus 4
+4117054,1,0,0,0,0,0,0,0,0,elephant gammaherpesvirus 5
+3806500,1,0,0,0,0,0,0,0,0,elephantid herpesvirus 3
+3806501,1,1,0,0,0,0,0,0,0,elephantid herpesvirus 4
+3884241,1,0,0,0,0,0,0,0,0,elephantid herpesvirus 6
+27708919,1,0,0,0,0,0,0,0,0,elk gammaherpesvirus 1
+27708921,1,0,0,0,0,0,0,0,0,elk gammaherpesvirus 2
+27483737,1,0,0,0,0,0,0,0,0,elk gammaherpesvirus 3
+3750257,1,0,0,0,0,0,0,0,0,equid gammaherpesvirus 7
+24616158,1,0,0,0,0,0,0,0,0,fisher herpesvirus
+27445749,1,0,0,0,0,0,0,0,0,grampus griseus gammaherpesvirus
+27285944,1,0,0,0,0,0,0,0,0,harp seal herpesvirus
+3788606,1,0,0,0,0,0,0,0,0,hawaiian monk seal herpesvirus
+27553411,1,0,0,0,0,0,0,0,0,hooded seal herpesvirus
+3757163,1,0,0,0,0,0,0,0,0,impala herpesvirus 1
+27406664,1,0,0,0,0,0,0,0,0,leopardus pardalis gammaherpesvirus 1
+27772743,1,0,0,0,0,0,0,0,0,lynx rufus gammaherpesvirus 1
+27406666,1,0,0,0,0,0,0,0,0,lynx rufus gammaherpesvirus 2
+3879345,1,0,0,0,0,0,0,0,0,macropodid herpesvirus 3
+27471584,1,0,0,0,0,0,0,0,0,macropodid herpesvirus 6
+27483741,1,0,0,0,0,0,0,0,0,marten gammaherpesvirus 1
+27483743,1,0,0,0,0,0,0,0,0,marten gammaherpesvirus 2
+27404176,1,0,0,0,0,0,0,0,0,myotis ricketti herpesvirus 1
+27404180,1,0,0,0,0,0,0,0,0,myotis ricketti herpesvirus 2
+3799300,1,0,0,0,0,0,0,0,0,northern elephant seal herpesvirus
+4054283,1,0,0,0,0,0,0,0,0,otariid herpesvirus 2
+27236560,1,0,0,0,0,0,0,0,0,otariid herpesvirus 3
+27259436,1,0,0,0,0,0,0,0,0,phascolarctid herpesvirus 1
+27459000,1,0,0,0,0,0,0,0,0,phascolarctid herpesvirus 2
+3473022,1,0,0,0,0,0,0,0,0,phocid gammaherpesvirus 2
+4054287,1,0,0,0,0,0,0,0,0,phocid herpesvirus 5
+26745973,1,0,0,0,0,0,0,0,0,phocid herpesvirus 7
+27411528,1,0,0,0,0,0,0,0,0,phocoenid herpesvirus 1
+27708923,1,0,0,0,0,0,0,0,0,porcupine caribou gammaherpesvirus 1
+27708925,1,0,0,0,0,0,0,0,0,porcupine caribou gammaherpesvirus 2
+27540817,1,0,0,0,0,0,0,0,0,pteropine herpesvirus 2
+26747805,1,0,0,0,0,0,0,0,0,puma concolor gammaherpesvirus 1
+26745639,1,0,0,0,0,0,0,0,0,reindeer gammaherpesvirus
+27553413,1,0,0,0,0,0,0,0,0,ringed seal herpesvirus
+27376841,1,0,0,0,0,0,0,0,0,rupicapra pyrenaica gammaherpesvirus 1
+3846198,1,1,0,0,0,0,0,0,0,rupicapra rupicapra gammaherpesvirus 1
+3904562,1,0,0,0,0,0,0,0,0,sorex araneus gammaherpesvirus 1
+4040842,1,0,0,0,0,0,0,0,0,sperm whale gammaherpesvirus
+3757161,1,0,0,0,0,0,0,0,0,springbok herpesvirus 1
+3757162,1,0,0,0,0,0,0,0,0,springbok herpesvirus 2
+4040843,1,0,0,0,0,0,0,0,0,stejneger's beaked whale gammaherpesvirus
+3806502,1,0,0,0,0,0,0,0,0,trichechid herpesvirus 1
+3698423,1,0,0,0,0,0,0,0,0,tupaia belangeri gammaherpesvirus 1
+27506399,1,0,0,0,0,0,0,0,0,ursid gammaherpesvirus 1
+4070524,1,0,0,0,0,0,0,0,0,white-headed marmoset gammaherpesvirus
+3553246,1,0,0,0,0,0,0,0,0,wild ass herpesvirus
+3553248,1,0,0,0,0,0,0,0,0,zebra herpesvirus
+3549764,1,0,0,0,0,0,0,0,0,african elephant endotheliolytic herpesvirus
+3549233,1,0,0,0,0,0,0,0,0,asian elephant endotheliolytic herpesvirus
+3878925,1,0,0,0,0,0,0,0,0,bat herpesvirus
+26745919,1,0,0,0,0,0,0,0,0,beluga whale herpesvirus
+3645182,1,0,0,0,0,0,0,0,0,cercopithecine herpesvirus 3
+27696877,1,0,0,0,0,0,0,0,0,cheirogaleid herpesvirus 1
+27696879,1,0,0,0,0,0,0,0,0,cheirogaleid herpesvirus 2
+3482655,1,0,0,0,0,0,0,0,0,cottontail rabbit herpesvirus
+4054286,1,0,0,0,0,0,0,0,0,delphinid herpesvirus 9
+27762755,1,0,0,0,0,0,0,0,0,dzifa herpesvirus
+27744673,1,0,0,0,0,0,0,0,0,eidolon helvum herpesvirus 1
+27744675,1,0,0,0,0,0,0,0,0,eidolon helvum herpesvirus 2
+27744677,1,0,0,0,0,0,0,0,0,eidolon helvum herpesvirus 3
+3459317,1,0,0,0,0,0,0,0,0,gallid herpesvirus
+27463390,1,0,0,0,0,0,0,0,0,lorisid herpesvirus 1
+27243862,1,0,0,0,0,0,0,0,0,mesoplodon densirostris herpesvirus
+27568966,1,0,0,0,0,0,0,0,0,odobenus rosmarus divergens herpesvirus
+3596889,1,0,0,0,0,0,0,0,0,ovine herpesvirus 1
+27351963,1,0,0,0,0,0,0,0,0,penguin herpesvirus 1
+3707470,1,0,0,0,0,0,0,0,0,psittacid herpesvirus 2
+3707471,1,0,0,0,0,0,0,0,0,psittacid herpesvirus 3
+27692017,1,0,0,0,0,0,0,0,0,thalassarchid herpesvirus 1
+3434855,1,0,0,1,1,1,1,1,0,gallid alphaherpesvirus 1
+4070142,1,0,0,0,1,1,1,0,0,gaviid herpesvirus 1
+3670210,1,0,0,0,1,1,1,0,0,passerid herpesvirus 1
+27649907,1,0,0,0,1,1,1,0,0,phoenicopterid herpesvirus 1
+3477921,1,0,0,0,1,1,1,0,0,psittacid alphaherpesvirus 1
+3575765,1,0,0,0,0,0,0,0,0,callitrichine gammaherpesvirus 3
+27721065,1,0,0,0,0,0,0,0,0,cercopithecus kandti lymphocryptovirus
+3434835,1,1,1,1,0,0,0,0,0,human gammaherpesvirus 4
+3682352,1,0,0,0,0,0,0,0,0,lymphocryptovirus 1
+24657645,1,0,0,0,0,0,0,0,0,lymphocryptovirus 2
+26205634,1,0,0,0,0,0,0,0,0,macaca fascicularis lymphocryptovirus
+3469509,1,0,0,0,0,0,0,0,0,macacine gammaherpesvirus 4
+26205494,1,0,0,0,0,0,0,0,0,pan troglodytes lymphocryptovirus
+3633200,1,0,0,0,0,0,0,0,0,panine gammaherpesvirus 1
+3575767,1,0,0,0,0,0,0,0,0,papiine gammaherpesvirus 1
+26205514,1,0,0,0,0,0,0,0,0,papio hamadryas lymphocryptovirus
+3633201,1,0,0,0,0,0,0,0,0,pongine gammaherpesvirus 2
+3765580,1,0,0,0,0,0,0,0,0,saimiri sciureus lymphocryptovirus 3
+3452140,1,1,0,1,0,0,0,0,0,alcelaphine gammaherpesvirus 1
+3613989,1,1,0,1,0,0,0,1,0,alcelaphine gammaherpesvirus 2
+23538926,1,1,0,1,0,0,0,0,0,bovine gammaherpesvirus 6
+3611160,1,1,0,1,0,0,0,0,0,caprine gammaherpesvirus 2
+3788215,1,1,0,1,0,0,0,0,0,hippotragine gammaherpesvirus 1
+3434872,1,1,0,1,0,0,0,0,0,ovine gammaherpesvirus 2
+3572342,1,0,0,1,0,0,1,1,0,anatid alphaherpesvirus 1
+3553242,1,0,0,1,0,0,1,1,0,columbid alphaherpesvirus 1
+3434862,1,0,0,1,0,0,1,1,0,gallid alphaherpesvirus 2
+3452136,1,0,0,1,0,0,1,1,0,gallid alphaherpesvirus 3
+3455151,1,0,0,1,0,0,1,1,0,meleagrid herpesvirus 1
+27216514,1,0,0,1,0,0,1,1,0,phasianid herpesvirus 1
+3434816,1,0,0,1,0,0,0,0,0,murid betaherpesvirus 1
+3442108,1,0,0,1,0,0,0,0,0,murid betaherpesvirus 2
+26302778,1,0,0,0,0,0,0,0,0,murid betaherpesvirus 8
+26302918,1,0,0,0,0,0,0,0,0,murine herpesvirus
+3437792,1,1,0,1,0,0,0,0,0,equid gammaherpesvirus 2
+3434825,1,1,0,0,0,0,0,0,0,equid gammaherpesvirus 5
+27078623,1,1,0,0,0,0,0,0,0,felid gammaherpesvirus 1
+3767864,1,1,0,0,0,0,0,0,0,mustelid gammaherpesvirus 1
+4110345,1,0,1,1,0,0,0,0,0,elephant endotheliotropic herpesvirus 2
+3977712,1,0,1,1,0,0,0,0,0,elephant endotheliotropic herpesvirus 3
+3977713,1,0,1,1,0,0,0,0,0,elephant endotheliotropic herpesvirus 4
+4117048,1,0,1,1,0,0,0,0,0,elephant endotheliotropic herpesvirus 5
+4117049,1,0,1,1,0,0,0,0,0,elephant endotheliotropic herpesvirus 6
+26323626,1,0,1,1,0,0,0,0,0,elephant endotheliotropic herpesvirus 7
+3621114,1,0,1,1,0,0,0,0,0,elephantid betaherpesvirus 1
+3788217,1,1,0,0,0,0,0,0,0,aoudad malignant catarrhal fever virus
+3765575,1,1,0,0,0,0,0,0,0,apodemus agrarius rhadinovirus 1
+3846807,1,1,0,0,0,0,0,0,0,apodemus flavicollis rhadinovirus 1
+3434843,1,1,0,0,0,0,0,0,0,ateline gammaherpesvirus 2
+3846808,1,1,0,0,0,0,0,0,0,bandicota savilei rhadinovirus 1
+3434853,1,1,0,1,0,0,0,0,0,bovine gammaherpesvirus 4
+27495296,1,1,0,0,0,0,0,0,0,cercopithecus kandti rhadinovirus
+3812136,1,1,0,0,0,0,0,0,0,cetacea gammaherpesvirus
+26745963,1,1,0,0,0,0,0,0,0,dolphin gammaherpesvirus
+3858247,1,1,0,0,0,0,0,0,0,elephantid herpesvirus 5
+3788216,1,1,0,0,0,0,0,0,0,fallow deer lymphotropic herpesvirus
+26205616,1,1,0,0,0,0,0,0,0,gorilla beringei beringei rhadinovirus 1
+3765578,1,1,0,0,0,0,0,0,0,hippopotamus amphibius rhadinovirus 1
+3455485,1,1,0,1,0,0,0,0,0,human gammaherpesvirus 8
+3628488,1,1,0,0,0,0,0,0,0,macacine gammaherpesvirus 5
+3695668,1,1,0,0,0,0,0,0,0,malignant catarrhal fever virus in white-tailed deer
+3449621,1,1,0,1,0,0,0,0,0,murid gammaherpesvirus 4
+3899174,1,1,0,0,0,0,0,0,0,mus cervicolor rhadinovirus 1
+3765573,1,1,0,0,0,0,0,0,0,mus musculus rhadinovirus 1
+3899502,1,1,0,0,0,0,0,0,0,myodes glareolus rhadinovirus 1
+3644527,1,1,0,0,0,0,0,0,0,pan rhadino-herpesvirus 2
+3643987,1,1,0,0,0,0,0,0,0,pan troglodytes rhadinovirus 2
+4064035,1,1,0,0,0,0,0,0,0,pan troglodytes rhadinovirus 3
+3858248,1,1,0,0,0,0,0,0,0,procavid herpesvirus 1
+26745859,1,1,0,0,0,0,0,0,0,ruminant rhadinovirus 2
+3434845,1,1,0,1,0,0,0,0,0,saimiriine gammaherpesvirus 2
+3707136,1,1,0,0,0,0,0,0,0,suiformes rhadinovirus genogroup 1
+3695321,1,1,0,0,0,0,0,0,0,type 1 ruminant rhadinovirus
+3695320,1,1,0,0,0,0,0,0,0,type 2 ruminant rhadinovirus
+27808586,1,0,1,0,0,0,1,0,0,cervid herpesvirus 3
+26205552,1,0,1,0,0,0,1,0,0,gorilla gorilla herpesvirus 7
+3434820,1,0,1,0,0,0,1,0,0,human betaherpesvirus 6
+3434827,1,0,1,1,0,0,1,0,0,human betaherpesvirus 7
+26205638,1,0,1,0,0,0,1,0,0,macacine betaherpesvirus 9
+26205488,1,0,1,0,0,0,1,0,0,pan troglodytes herpesvirus 7
+3765583,1,0,1,0,0,0,1,0,0,pan troglodytes roseolovirus 1
+23539716,1,0,1,0,0,0,1,0,0,suid betaherpesvirus 2
+3434709,1,0,0,1,0,0,0,0,0,bovine alphaherpesvirus 2
+3434751,1,1,0,0,0,0,0,0,0,cercopithecine alphaherpesvirus 2
+3994641,1,1,0,0,0,0,0,0,0,eidolon dupraenum simplexvirus 1
+3994642,1,1,0,0,0,0,0,0,0,eidolon helvum simplexvirus 1
+3434715,1,1,0,1,0,0,0,0,0,human alphaherpesvirus 1
+3434739,1,1,1,1,0,0,0,0,0,human alphaherpesvirus 2
+3921008,1,0,0,0,0,0,0,0,0,leporid alphaherpesvirus 4
+3994643,1,1,0,0,0,0,0,0,0,lonchophylla thomasi simplexvirus 1
+3434765,1,1,0,1,0,0,0,0,0,macacine alphaherpesvirus 1
+3613342,1,1,0,0,0,0,0,0,0,macropodid alphaherpesvirus 1
+3535416,1,0,0,0,0,0,0,0,0,macropodid alphaherpesvirus 2
+3787876,1,0,0,0,0,0,0,0,0,panine alphaherpesvirus 3
+3795285,1,1,0,0,0,0,0,0,0,papiine alphaherpesvirus 2
+3994644,1,1,0,0,0,0,0,0,0,pteropus lylei simplexvirus 1
+3434796,1,1,0,0,0,0,0,0,0,saimiriine alphaherpesvirus 1
+3434755,1,1,0,0,0,0,1,0,0,bovine alphaherpesvirus 1
+3452126,1,1,0,1,0,0,1,0,0,bovine alphaherpesvirus 5
+3673213,1,0,0,0,0,0,1,0,0,bubaline alphaherpesvirus 1
+3643011,1,1,0,0,0,0,1,0,0,canid alphaherpesvirus 1
+3459963,1,1,0,1,0,0,1,0,0,caprine alphaherpesvirus 1
+3452128,1,0,0,0,0,0,1,0,0,cercopithecine alphaherpesvirus 9
+3529209,1,1,0,0,0,0,1,0,0,cervid alphaherpesvirus 1
+3817273,1,1,0,0,0,0,1,0,0,cervid alphaherpesvirus 2
+3816590,1,0,0,0,0,0,1,0,0,elk herpesvirus
+3434767,1,0,0,1,0,0,1,0,0,equid alphaherpesvirus 1
+3530040,1,1,0,0,0,0,1,0,0,equid alphaherpesvirus 3
+3434777,1,0,0,1,0,0,1,0,0,equid alphaherpesvirus 4
+3459451,1,0,0,0,0,0,1,0,0,equid alphaherpesvirus 8
+3487622,1,0,0,1,0,0,1,0,0,equid alphaherpesvirus 9
+3434781,1,1,0,1,0,0,1,0,0,felid alphaherpesvirus 1
+3434783,1,1,0,1,0,0,1,0,0,human alphaherpesvirus 3
+3473020,1,0,0,0,0,0,0,0,0,phocid alphaherpesvirus 1
+3434790,1,1,0,1,0,0,1,1,0,suid alphaherpesvirus 1
+3434972,0,0,0,0,0,1,0,0,0,thermoproteus tenax virus 1
+4073779,0,0,0,1,0,0,0,0,0,marseillevirus marseillevirus
+4221557,0,0,0,1,0,0,0,0,0,senegalvirus marseillevirus
+3791691,1,1,0,1,0,0,0,0,0,alphapapillomavirus 1
+3788617,1,1,0,1,0,0,0,0,0,alphapapillomavirus 10
+3791692,1,1,0,1,0,0,0,0,0,alphapapillomavirus 11
+3435090,1,1,0,1,0,0,0,0,0,alphapapillomavirus 12
+3788629,1,1,0,1,0,0,0,0,0,alphapapillomavirus 13
+3791683,1,1,0,1,0,0,0,0,0,alphapapillomavirus 2
+3788630,1,1,0,1,0,0,0,0,0,alphapapillomavirus 3
+3791686,1,1,0,1,0,0,0,0,0,alphapapillomavirus 4
+3791687,1,1,0,1,0,0,0,0,0,alphapapillomavirus 5
+3791693,1,1,0,1,0,0,0,0,0,alphapapillomavirus 6
+3791685,1,1,0,1,0,0,0,0,0,alphapapillomavirus 7
+3788620,1,1,0,1,0,0,0,0,0,alphapapillomavirus 8
+3791684,1,1,0,1,0,0,0,0,0,alphapapillomavirus 9
+3791694,1,0,0,0,0,0,0,0,0,betapapillomavirus 1
+3788781,1,0,0,0,0,0,0,0,0,betapapillomavirus 2
+3789050,1,0,0,0,0,0,0,0,0,betapapillomavirus 3
+3789051,1,0,0,0,0,0,0,0,0,betapapillomavirus 4
+3789052,1,0,0,0,0,0,0,0,0,betapapillomavirus 5
+3481670,1,0,0,0,0,0,0,0,0,colobus monkey papillomavirus
+27232016,1,0,0,0,0,0,0,0,0,human betapapillomavirus
+3490912,1,0,0,0,0,0,0,0,0,macaca fascicularis papillomavirus
+26202622,1,0,0,0,0,0,0,0,0,chipapillomavirus 1
+26747963,1,0,0,0,0,0,0,0,0,chipapillomavirus 2
+26202689,1,0,0,0,0,0,0,0,0,chipapillomavirus 3
+3435080,1,0,0,0,0,0,0,0,0,deltapapillomavirus 1
+3435078,1,0,0,0,0,0,0,0,0,deltapapillomavirus 2
+3791695,1,0,0,0,0,0,0,0,0,deltapapillomavirus 4
+26552541,1,0,0,0,0,0,0,0,0,deltapapillomavirus 5
+27298814,1,0,0,0,0,0,0,0,0,dyochipapillomavirus 1
+4219314,1,0,0,0,0,0,0,0,0,dyoiotapapillomavirus 1
+27246606,1,0,0,0,0,0,0,0,0,dyoiotapapillomavirus 2
+4025666,1,0,0,0,0,0,0,0,0,dyokappapapillomavirus 1
+27727391,1,0,0,0,0,0,0,0,0,dyokappapapillomavirus 2
+27500482,1,0,0,0,0,0,0,0,0,dyokappapapillomavirus 3
+27500488,1,0,0,0,0,0,0,0,0,dyokappapapillomavirus 4
+4110301,1,0,0,0,0,0,0,0,0,dyolambdapapillomavirus 1
+4250019,1,0,0,0,0,0,0,0,0,dyonupapillomavirus 1
+27775963,1,0,0,0,0,0,0,0,0,dyoomegapapillomavirus 1
+26323240,1,0,0,0,0,0,0,0,0,dyoomikronpapillomavirus 1
+27793434,1,0,0,0,0,0,0,0,0,dyophipapillomavirus 1
+4082321,1,0,0,0,0,0,0,0,0,dyopipapillomavirus 1
+27775961,1,0,0,0,0,0,0,0,0,dyopsipapillomavirus 1
+27295640,1,0,0,0,0,0,0,0,0,dyorhopapillomavirus 1
+26323246,1,0,0,0,0,0,0,0,0,dyosigmapapillomavirus 1
+27727389,1,0,0,0,0,0,0,0,0,dyoupsilonpapillomavirus 1
+26552587,1,0,0,1,0,0,0,0,0,dyoxipapillomavirus 1
+27500490,1,0,0,0,0,0,0,0,0,dyoxipapillomavirus 2
+3460994,1,0,0,1,0,0,0,0,0,epsilonpapillomavirus 1
+3435101,1,0,0,0,0,0,0,0,0,chaffinch papillomavirus
+3788782,1,0,0,1,0,0,0,0,0,gammapapillomavirus 1
+26552659,1,0,0,1,0,0,0,0,0,gammapapillomavirus 10
+26328584,1,0,0,1,0,0,0,0,0,gammapapillomavirus 11
+26328586,1,0,0,1,0,0,0,0,0,gammapapillomavirus 12
+26552661,1,0,0,1,0,0,0,0,0,gammapapillomavirus 13
+26552663,1,0,0,1,0,0,0,0,0,gammapapillomavirus 14
+26552665,1,0,0,1,0,0,0,0,0,gammapapillomavirus 15
+26552667,1,0,0,1,0,0,0,0,0,gammapapillomavirus 16
+26552669,1,0,0,1,0,0,0,0,0,gammapapillomavirus 17
+26328588,1,0,0,1,0,0,0,0,0,gammapapillomavirus 18
+3788783,1,0,0,1,0,0,0,0,0,gammapapillomavirus 2
+26328592,1,0,0,1,0,0,0,0,0,gammapapillomavirus 20
+27765035,1,0,0,1,0,0,0,0,0,gammapapillomavirus 21
+27826466,1,0,0,1,0,0,0,0,0,gammapapillomavirus 22
+27778539,1,0,0,1,0,0,0,0,0,gammapapillomavirus 24
+27856566,1,0,0,1,0,0,0,0,0,gammapapillomavirus 25
+27665302,1,0,0,1,0,0,0,0,0,gammapapillomavirus 27
+3788786,1,0,0,1,0,0,0,0,0,gammapapillomavirus 5
+26552671,1,0,0,1,0,0,0,0,0,gammapapillomavirus 6
+26328594,1,0,0,1,0,0,0,0,0,gammapapillomavirus 7
+26328596,1,0,0,1,0,0,0,0,0,gammapapillomavirus 8
+26552673,1,0,0,1,0,0,0,0,0,gammapapillomavirus 9
+3435084,1,0,0,0,0,0,0,0,0,iotapapillomavirus 1
+24641587,1,0,0,0,0,0,0,0,0,iotapapillomavirus 2
+3599586,1,0,0,0,0,0,0,0,0,kappapapillomavirus 1
+3435176,1,0,0,0,0,0,0,0,1,kappapapillomavirus 2
+3653605,1,0,0,0,0,0,0,0,0,lambdapapillomavirus 1
+3452148,1,0,0,1,0,0,0,0,0,lambdapapillomavirus 2
+27856732,1,0,0,0,0,0,0,0,0,lambdapapillomavirus 4
+3789047,1,0,0,0,0,0,0,0,0,mupapillomavirus 1
+27381809,1,0,0,0,0,0,0,0,0,mupapillomavirus 3
+3534004,1,0,0,0,0,0,0,0,0,omikronpapillomavirus 1 
+27723707,1,0,0,0,0,0,0,0,0,bos taurus papillomavirus 20
+3435092,1,0,0,1,0,0,0,0,0,bovine papillomavirus
+26745825,1,0,0,0,0,0,0,0,0,bovine papillomavirus 32b
+26745827,1,0,0,0,0,0,0,0,0,bovine papillomavirus 7z
+27097318,1,0,0,0,0,0,0,0,0,camel papillomavirus
+26747439,1,0,0,1,0,0,0,0,0,canine papillomavirus
+3673665,1,1,0,0,0,0,0,0,0,chimpanzee papillomavirus
+26201254,1,0,0,0,0,0,0,0,0,duck papillomavirus
+27744679,1,0,0,0,0,0,0,0,0,eidolon helvum papillomavirus 4
+27744681,1,0,0,0,0,0,0,0,0,eidolon helvum papillomavirus 5
+27744683,1,0,0,0,0,0,0,0,0,eidolon helvum papillomavirus 6
+27786498,1,0,0,0,0,0,0,0,0,eidolon helvum papillomavirus 7
+27861136,1,0,0,0,0,0,0,0,0,eptesicus isabellinus papillomavirus
+27861134,1,0,0,0,0,0,0,0,0,eptesicus serotinus papillomavirus
+27345570,1,0,0,0,0,0,0,0,0,equine papillomavirus
+4040585,1,0,0,0,0,0,0,0,0,feline sarcoid-associated papillomavirus
+27758099,1,0,0,0,0,0,0,0,0,ferret papillomavirus
+3720567,1,0,0,0,0,0,0,0,0,florida manatee papillomavirus
+3435082,1,0,0,0,0,0,0,0,0,human papillomavirus
+27655259,1,0,0,0,0,0,0,0,0,human papillomavirus kc5
+27734961,1,0,0,0,0,0,0,0,0,human papillomavirus type 78
+3461002,1,0,0,0,0,0,0,0,0,ovine papillomavirus
+27755415,1,0,0,0,0,0,0,0,0,pteropus giganteus papillomavirus type 1
+27860012,1,0,0,0,0,0,0,0,0,rangifer tarandus granti papillomavirus
+27808584,1,0,0,0,0,0,0,0,0,rangifer tarandus papillomavirus 3
+3571396,1,0,0,0,0,0,0,0,0,trichosurus vulpecula papillomavirus
+27863686,1,0,0,0,0,0,0,0,0,tursiops aduncus papillomavirus
+24562512,1,1,0,0,0,0,0,0,0,pipapillomavirus 1
+24609452,1,1,0,0,0,0,0,0,0,pipapillomavirus 2
+3821029,1,0,0,0,0,0,0,0,0,psipapillomavirus 1
+27543093,1,0,0,0,0,0,0,0,0,psipapillomavirus 2
+27273496,1,0,0,0,0,0,0,0,0,psipapillomavirus 3
+3750238,1,0,0,0,0,0,0,0,0,rhopapillomavirus 1
+27556939,1,0,0,0,0,0,0,0,0,rhopapillomavirus 2
+3750239,1,0,0,0,0,0,0,0,0,sigmapapillomavirus 1
+26748013,1,0,0,0,0,0,0,0,0,feline papillomavirus type 3
+26748063,1,0,0,0,0,0,0,0,0,taupapillomavirus 1
+26350136,1,0,0,0,0,0,0,0,0,taupapillomavirus 2
+27273610,1,0,0,0,0,0,0,0,0,taupapillomavirus 3
+3668354,1,0,0,0,0,0,0,0,0,thetapapillomavirus 1
+27775967,1,0,0,0,0,0,0,0,0,treisdeltapapillomavirus 1
+27779081,1,0,0,0,0,0,0,0,0,treisepsilonpapillomavirus 1
+27229038,1,0,0,0,0,0,0,0,0,treisetapapillomavirus 1
+27693587,1,0,0,0,0,0,0,0,0,treisthetapapillomavirus 1
+27855426,1,0,0,0,0,0,0,0,0,treiszetapapillomavirus 1
+4217053,1,0,0,0,0,0,0,0,0,upsilonpapillomavirus 2
+4082320,1,0,0,0,0,0,0,0,0,upsilonpapillomavirus 3
+3435072,1,0,0,0,0,0,0,0,0,xipapillomavirus 1
+26553247,1,0,0,0,0,0,0,0,0,xipapillomavirus 2
+27808582,1,0,0,0,0,0,0,0,0,xipapillomavirus 3
+27500484,1,0,0,0,0,0,0,0,0,xipapillomavirus 4
+3788776,1,0,0,0,0,0,0,0,0,zetapapillomavirus 1
+26205236,0,0,0,0,1,1,0,0,0,acerodon celebensis polyomavirus 1
+27629007,0,0,0,0,1,1,0,0,0,carollia perspicillata polyomavirus 1
+28458273,0,0,0,0,1,1,0,0,0,chlorocebus pygerythrus polyomavirus 1
+26205234,0,0,0,0,1,1,0,0,0,dobsonia moluccensis polyomavirus 1
+4212727,0,0,0,0,1,1,0,0,0,gorilla gorilla polyomavirus 1
+27789517,0,0,0,0,1,1,0,0,0,human polyomavirus 13
+3932358,0,0,0,0,1,1,0,0,0,human polyomavirus 5
+4164252,0,0,0,0,1,1,0,0,0,human polyomavirus 8
+4221022,0,0,0,0,1,1,0,0,0,human polyomavirus 9
+26303162,0,0,0,0,1,1,0,0,0,mesocricetus auratus polyomavirus 1
+27343860,0,0,0,0,1,1,0,0,0,molossus molossus polyomavirus 1
+26303164,0,0,0,0,1,1,0,0,0,mus musculus polyomavirus 1
+26205516,0,0,0,0,1,1,0,0,0,papio cynocephalus polyomavirus 1
+27342870,0,0,0,0,1,1,0,0,0,pongo abelii polyomavirus 1
+27240550,0,0,0,0,1,1,0,0,0,procyon lotor polyomavirus 1
+26303094,0,0,0,0,1,1,0,0,0,rattus norvegicus polyomavirus 1
+26205240,0,0,1,0,1,1,0,0,0,acerodon celebensis polyomavirus 2
+27509057,0,0,1,0,1,1,0,0,0,cercopithecus erythrotis polyomavirus 1
+27343858,0,0,1,0,1,1,0,0,0,desmodus rotundus polyomavirus 1
+26205242,0,0,1,0,1,1,0,0,0,dobsonia moluccensis polyomavirus 2
+26205244,0,0,1,0,1,1,0,0,0,dobsonia moluccensis polyomavirus 3
+26331088,0,0,1,0,1,1,0,0,0,human polyomavirus 1
+3435192,0,0,1,0,1,1,0,0,0,human polyomavirus 2
+3869614,0,0,1,0,1,1,0,0,0,human polyomavirus 3
+26552729,0,0,1,0,1,1,0,0,0,human polyomavirus 4
+27760195,0,0,1,0,1,1,0,0,0,loxodonta africana polyomavirus 1
+26205414,0,0,1,0,1,1,0,0,0,macaca mulatta polyomavirus 1
+4180721,0,0,1,0,1,1,0,0,0,mastomys natalensis polyomavirus 1
+27630185,0,0,1,0,1,1,0,0,0,meles meles polyomavirus 1
+27416532,0,0,1,0,1,1,0,0,0,microtus arvalis polyomavirus 1
+26303166,0,0,1,0,1,1,0,0,0,mus musculus polyomavirus 2
+27416530,0,0,1,0,1,1,0,0,0,myodes glareolus polyomavirus 1
+26205496,0,0,1,0,1,1,0,0,0,pan troglodytes polyomavirus 8
+27629005,0,0,1,0,1,1,0,0,0,pteronotus parnellii polyomavirus 1
+3895567,0,0,1,0,1,1,0,0,0,saimiri boliviensis polyomavirus 1
+4089591,0,0,1,0,1,1,0,0,0,zalophus californianus polyomavirus 1
+27413410,0,0,0,0,1,1,0,0,0,human polyomavirus 10
+27516519,0,0,0,0,1,1,0,0,0,human polyomavirus 11
+4100229,0,0,0,0,1,1,0,0,0,human polyomavirus 6
+4100230,0,0,0,0,1,1,0,0,0,human polyomavirus 7
+3678401,1,0,0,0,1,1,1,1,0,anser anser polyomavirus 1
+26552359,1,0,0,0,1,1,1,1,0,aves polyomavirus 1
+3803193,0,0,0,0,1,1,0,0,0,corvus monedula polyomavirus 1
+27813686,0,0,0,0,1,1,0,0,0,cracticus torquatus polyomavirus 1
+27619731,0,0,0,0,1,1,0,0,0,pygoscelis adeliae polyomavirus 1
+3803194,1,0,0,0,1,1,1,1,0,pyrrhula pyrrhula polyomavirus 1
+4175956,0,0,0,0,1,1,0,0,0,serinus canaria polyomavirus 1
+3437738,1,0,0,0,1,1,0,0,0,african green monkey polyomavirus
+26201190,1,0,0,0,1,1,1,1,0,avian polyomavirus
+26205230,0,0,0,0,1,1,0,0,0,bat polyomavirus
+26316488,0,0,0,0,1,1,0,0,0,bos taurus polyomavirus 1
+26316552,0,0,0,0,1,1,0,0,0,bovine polyomavirus 2
+4180253,0,0,0,0,1,1,0,0,0,capuchin monkey polyomavirus
+3762889,0,0,0,0,1,1,0,0,0,chimpanzee polyomavirus
+26745917,0,0,0,0,1,1,0,0,0,delphinus delphis polyomavirus 1
+26205606,0,0,0,0,1,1,0,0,0,gorilla beringei beringei polyomavirus
+26205604,0,0,0,0,1,1,0,0,0,gorilla beringei graueri polyomavirus
+26205602,0,0,0,0,1,1,0,0,0,gorilla gorilla gorilla polyomavirus
+4180249,0,0,0,0,1,1,0,0,0,gorilla polyomavirus
+4180251,0,0,0,0,1,1,0,0,0,hamadryas baboon polyomavirus
+4180250,0,0,0,0,1,1,0,0,0,mandrill polyomavirus
+27245956,0,0,0,0,1,1,0,0,0,mx polyomavirus
+4026996,0,0,0,0,1,1,0,0,0,orangutan polyomavirus
+26745683,0,0,0,0,1,1,0,0,0,ovine polyomavirus
+27462784,0,0,0,0,1,1,0,0,0,pan paniscus polyomavirus
+26205500,0,0,0,0,1,1,0,0,0,pan troglodytes schweinfurthii polyomavirus
+4212220,0,0,0,0,1,1,0,0,0,pan troglodytes schweinfurthii polyomavirus 1
+26205502,0,0,0,0,1,1,0,0,0,pan troglodytes troglodytes polyomavirus
+26205478,0,0,0,0,1,1,0,0,0,pan troglodytes troglodytes polyomavirus 1
+4180248,0,0,0,0,1,1,0,0,0,pygmy chimpanzee polyomavirus
+27786270,0,0,0,0,1,1,0,0,0,rangifer tarandus granti polyomavirus
+27595044,0,0,0,0,1,1,0,0,0,sea otter polyomavirus 1
+26745795,0,0,0,0,1,1,0,0,0,sheep polyomavirus 1
+3471899,0,0,0,0,1,1,0,0,0,simian virus 12
+27664788,0,0,0,0,1,1,0,0,0,sus scrofa polyomavirus 1
+27618655,0,0,0,0,1,1,0,0,0,tadarida brasiliensis polyomavirus 1
+27618657,0,0,0,0,1,1,0,0,0,tadarida brasiliensis polyomavirus 2
+26201036,1,0,0,1,0,0,1,1,1,bald eagle poxvirus
+26201034,1,0,0,1,0,0,1,1,1,brazilian penguinpox virus
+3467181,1,0,0,1,0,0,1,1,1,canarypox virus
+26201038,1,0,0,1,0,0,1,1,1,cape sugarbird pox virus
+3941417,1,0,0,1,0,0,1,1,1,flamingo poxvirus
+3434653,1,0,0,1,0,0,1,1,1,fowlpox virus
+3696298,1,0,0,1,0,0,1,1,1,hawaiian goose poxvirus
+4035361,1,0,0,1,0,0,1,1,1,penguinpox virus
+3434657,1,0,0,1,0,0,1,1,1,pigeonpox virus
+3849145,1,0,0,1,0,0,1,1,1,quailpox virus
+26201040,1,0,0,1,0,0,1,1,1,spheniscus humboldti poxvirus
+3791172,1,0,0,1,0,0,1,1,1,turkeypox virus
+3695476,1,0,0,1,0,0,1,1,1,vultur gryphus poxvirus
+3658383,1,0,0,1,0,0,1,1,1,goatpox virus
+3494289,1,0,0,1,0,0,1,1,1,lumpy skin disease virus
+3434661,1,0,0,1,0,0,1,1,1,sheeppox virus
+3761684,1,0,0,1,0,0,0,0,0,mule deerpox virus
+27721481,1,0,0,1,0,0,0,1,1,pteropox virus
+26747763,1,0,0,1,0,0,0,1,0,sea otter poxvirus
+3707054,1,0,0,1,0,0,0,1,1,squirrelpox virus
+3434675,1,0,0,0,0,0,0,0,1,malignant rabbit fibroma virus
+3434673,1,0,0,0,0,0,0,0,1,myxoma virus
+3434669,1,0,0,0,0,0,0,0,1,rabbit fibroma virus
+3969549,1,0,0,0,0,0,0,0,1,squirrel fibroma virus
+3434685,1,1,0,0,0,0,0,0,0,molluscum contagiosum virus
+3442991,1,0,0,1,0,0,1,1,1,camelpox virus
+3775757,1,0,0,0,0,0,0,0,0,cetacean poxvirus 1
+3774939,1,0,0,0,0,0,0,0,0,cetacean poxvirus 2
+3434618,1,0,0,0,0,0,0,0,0,cowpox virus
+3437786,1,0,0,1,0,0,0,0,0,ectromelia virus
+3434620,1,0,0,1,0,0,0,1,0,monkeypox virus
+3434643,1,0,0,0,0,0,0,0,0,raccoonpox virus
+3634278,1,0,0,0,0,0,0,0,0,skunkpox virus
+3717949,1,0,0,0,0,0,0,0,0,steller sea lion poxvirus
+3442989,1,0,0,0,0,0,0,0,0,taterapox virus
+3434622,1,1,0,0,0,0,0,0,0,vaccinia virus
+3434641,1,0,0,1,0,0,1,1,0,variola virus
+3442993,1,0,0,0,0,0,0,0,0,volepox virus
+3606293,1,0,0,1,0,0,0,1,0,bovine papular stomatitis virus
+4049021,1,0,0,1,0,0,0,1,0,camel contagious ecthyma virus
+26748019,1,0,0,1,0,0,0,1,0,equine parapoxvirus
+3434647,1,0,0,1,0,0,0,1,0,orf virus
+3606294,1,0,0,1,0,0,0,1,0,parapoxvirus of red deer in new zealand
+3606292,1,0,0,1,0,0,0,1,0,pseudocowpox virus
+3727116,1,0,0,1,0,0,0,1,0,reindeer parapoxvirus
+3659447,1,0,0,1,0,0,0,1,0,seal parapoxvirus
+26205248,1,0,0,0,0,0,0,0,0,bat poxvirus
+4073045,1,0,0,1,0,0,0,0,0,canadian squirrelpox virus
+3459092,1,0,0,0,0,0,0,0,0,cotia virus
+27786502,1,0,0,0,0,0,0,0,0,eidolon helvum poxvirus 1
+27272630,1,0,0,0,0,0,0,0,0,eptesipox virus
+3434679,1,0,0,0,0,0,0,0,0,swinepox virus
+3563150,1,0,0,0,0,0,0,0,1,tanapox virus
+3458036,1,0,0,0,0,0,0,0,1,yaba monkey tumor virus
+26205446,0,1,0,1,1,1,0,0,0,simian torque teno virus
+26205448,0,1,0,1,1,1,0,0,0,simian torque teno virus 30
+26205450,0,1,0,1,1,1,0,0,0,simian torque teno virus 31
+26205452,0,1,0,1,1,1,0,0,0,simian torque teno virus 32
+26205454,0,1,0,1,1,1,0,0,0,simian torque teno virus 33
+26205456,0,1,0,1,1,1,0,0,0,simian torque teno virus 34
+4067809,0,1,0,1,1,1,0,0,0,torque teno virus 1
+4067818,0,1,0,1,1,1,0,0,0,torque teno virus 10
+4067819,0,1,0,1,1,1,0,0,0,torque teno virus 11
+4067820,0,1,0,1,1,1,0,0,0,torque teno virus 12
+4067821,0,1,0,1,1,1,0,0,0,torque teno virus 13
+4067822,0,1,0,1,1,1,0,0,0,torque teno virus 14
+4067823,0,1,0,1,1,1,0,0,0,torque teno virus 15
+4067824,0,1,0,1,1,1,0,0,0,torque teno virus 16
+4067825,0,1,0,1,1,1,0,0,0,torque teno virus 17
+4067826,0,1,0,1,1,1,0,0,0,torque teno virus 18
+4067827,0,1,0,1,1,1,0,0,0,torque teno virus 19
+4067810,0,1,0,1,1,1,0,0,0,torque teno virus 2
+4067828,0,1,0,1,1,1,0,0,0,torque teno virus 20
+4067829,0,1,0,1,1,1,0,0,0,torque teno virus 21
+4067830,0,1,0,1,1,1,0,0,0,torque teno virus 22
+4067831,0,1,0,1,1,1,0,0,0,torque teno virus 23
+4067832,0,1,0,1,1,1,0,0,0,torque teno virus 24
+4067833,0,1,0,1,1,1,0,0,0,torque teno virus 25
+4067834,0,1,0,1,1,1,0,0,0,torque teno virus 26
+4067835,0,1,0,1,1,1,0,0,0,torque teno virus 27
+4067836,0,1,0,1,1,1,0,0,0,torque teno virus 28
+4067837,0,1,0,1,1,1,0,0,0,torque teno virus 29
+4067811,0,1,0,1,1,1,0,0,0,torque teno virus 3
+4067812,0,1,0,1,1,1,0,0,0,torque teno virus 4
+4067813,0,1,0,1,1,1,0,0,0,torque teno virus 5
+4067814,0,1,0,1,1,1,0,0,0,torque teno virus 6
+4067815,0,1,0,1,1,1,0,0,0,torque teno virus 7
+4067816,0,1,0,1,1,1,0,0,0,torque teno virus 8
+4067817,0,1,0,1,1,1,0,0,0,torque teno virus 9
+26205628,0,1,0,1,1,1,0,0,0,chimpanzee anellovirus
+1861840,0,1,0,1,1,1,0,0,0,feline anellovirus
+2016460,0,1,0,1,1,1,0,0,0,giant panda anellovirus
+26205600,0,1,0,1,1,1,0,0,0,gorilla anellovirus
+2012640,0,1,0,1,1,1,0,0,0,lesser panda anellovirus
+24574231,0,1,1,1,1,1,0,0,0,micro torque teno virus
+2054609,0,1,0,1,1,1,0,0,0,opossum torque teno virus
+27864476,0,1,0,1,1,1,0,0,0,rodent torque teno virus 1
+27584525,0,1,0,1,1,1,0,0,0,rodent torque teno virus 2
+2054610,0,1,0,1,1,1,0,0,0,rodent torque teno virus 3
+2054611,0,1,0,1,1,1,0,0,0,rodent torque teno virus 4
+2054612,0,1,0,1,1,1,0,0,0,rodent torque teno virus 5
+2054613,0,1,0,1,1,1,0,0,0,rodent torque teno virus 6
+2054614,0,1,0,1,1,1,0,0,0,rodent torque teno virus 7
+2054615,0,1,0,1,1,1,0,0,0,rodent torque teno virus 8
+26745981,0,1,0,1,1,1,0,0,0,seal anellovirus 2
+26347630,0,1,0,1,1,1,0,0,0,seal anellovirus 3
+26347632,0,1,0,1,1,1,0,0,0,seal anellovirus 4
+3612885,0,1,0,1,1,1,0,0,0,sen virus
+3842334,0,1,0,1,1,1,0,0,0,small anellovirus
+2249932,0,1,0,1,1,1,0,0,0,torque teno Arctocephalus gazella virus 1
+2249933,0,1,0,1,1,1,0,0,0,torque teno Arctocephalus gazella virus 2
+2054616,0,1,0,1,1,1,0,0,0,torque teno calomys tener virus
+2054617,0,1,0,1,1,1,0,0,0,torque teno carollia perspicillata virus
+2054618,0,1,0,1,1,1,0,0,0,torque teno desmodus rotundus virus
+2054619,0,1,0,1,1,1,0,0,0,torque teno didelphis albiventris virus
+2010248,0,1,0,1,1,1,0,0,0,torque teno indri virus 1
+2012676,0,1,0,1,1,1,0,0,0,torque teno Leptonychotes weddellii virus-1
+2012677,0,1,0,1,1,1,0,0,0,torque teno Leptonychotes weddellii virus-2
+2579707,0,1,0,1,1,1,0,0,0,torque teno ocelot virus
+27872163,0,1,0,1,1,1,0,0,0,torque teno tadarida brasiliensis virus
+3509728,0,1,0,1,1,1,0,0,0,torque teno virus
+4067838,0,1,0,1,1,1,0,0,0,torque teno mini virus 1
+2065036,0,1,0,1,1,1,0,0,0,torque teno mini virus 10
+2065037,0,1,0,1,1,1,0,0,0,torque teno mini virus 11
+2065038,0,1,0,1,1,1,0,0,0,torque teno mini virus 12
+27491970,0,1,0,1,1,1,0,0,0,torque teno mini virus 18
+4067839,0,1,0,1,1,1,0,0,0,torque teno mini virus 2
+4067840,0,1,0,1,1,1,0,0,0,torque teno mini virus 3
+4067841,0,1,0,1,1,1,0,0,0,torque teno mini virus 4
+4067842,0,1,0,1,1,1,0,0,0,torque teno mini virus 5
+4067843,0,1,0,1,1,1,0,0,0,torque teno mini virus 6
+4067844,0,1,0,1,1,1,0,0,0,torque teno mini virus 7
+4067845,0,1,0,1,1,1,0,0,0,torque teno mini virus 8
+4067846,0,1,0,1,1,1,0,0,0,torque teno mini virus 9
+3553721,0,1,0,1,1,1,0,0,0,ttv-like mini virus
+4067850,1,1,0,1,1,1,0,0,0,torque teno tupaia virus
+4067851,0,1,0,1,1,1,0,0,0,torque teno tamarin virus
+4067853,0,1,0,1,1,1,0,0,0,torque teno felis virus
+2065043,0,1,0,1,1,1,0,0,0,torque teno felis virus 2
+3877756,1,1,0,1,1,1,0,0,0,torque teno midi virus
+4067848,1,1,0,1,1,1,0,0,0,torque teno midi virus 1
+2065051,1,1,0,1,1,1,0,0,0,torque teno midi virus 10
+2065052,1,1,0,1,1,1,0,0,0,torque teno midi virus 11
+2065053,1,1,0,1,1,1,0,0,0,torque teno midi virus 12
+2065054,1,1,0,1,1,1,0,0,0,torque teno midi virus 13
+2065055,1,1,0,1,1,1,0,0,0,torque teno midi virus 14
+2065056,1,1,0,1,1,1,0,0,0,torque teno midi virus 15
+4067849,1,1,0,1,1,1,0,0,0,torque teno midi virus 2
+2065044,1,1,0,1,1,1,0,0,0,torque teno midi virus 3
+2065045,1,1,0,1,1,1,0,0,0,torque teno midi virus 4
+2065046,1,1,0,1,1,1,0,0,0,torque teno midi virus 5
+2065047,1,1,0,1,1,1,0,0,0,torque teno midi virus 6
+2065048,1,1,0,1,1,1,0,0,0,torque teno midi virus 7
+2065049,1,1,0,1,1,1,0,0,0,torque teno midi virus 8
+2065050,1,1,0,1,1,1,0,0,0,torque teno midi virus 9
+4169151,0,1,0,1,1,1,0,0,0,torque teno sus virus
+4067855,0,1,0,1,1,1,0,0,0,torque teno sus virus 1a
+4067856,0,1,0,1,1,1,0,0,0,torque teno sus virus 1b
+26351220,0,1,0,1,1,1,0,0,0,torque teno sus virus k2
+1968861,0,1,0,1,1,1,0,0,0,torque teno sus virus k2a
+27247234,0,1,0,1,1,1,0,0,0,torque teno sus virus k2b
+4015555,0,1,0,1,1,1,0,0,0,torque teno zalophus virus 1
+27298818,0,1,0,1,1,1,0,0,0,torque teno equus virus 1
+2483303,0,1,0,1,1,1,0,0,0,dog torquevirus 5
+4067854,0,1,0,1,1,1,0,0,0,torque teno canis virus
+27414310,0,0,1,0,1,1,0,0,0,bat associated circovirus 4
+27464166,0,0,1,0,1,1,0,0,0,bat associated cyclovirus 14
+27464168,0,0,1,0,1,1,0,0,0,bat associated cyclovirus 15
+27697599,0,0,1,0,1,1,0,0,0,bat associated cyclovirus 16
+26205124,0,0,1,0,1,1,0,0,0,bat circovirus
+3525589,0,0,1,0,1,1,0,0,0,beak and feather disease virus
+3618134,0,0,1,0,1,1,0,0,0,canary circovirus
+26317808,0,0,1,0,1,1,0,0,0,canine circovirus
+3780359,0,0,1,0,1,1,0,0,0,duck circovirus
+3848722,0,0,1,0,1,1,0,0,0,finch circovirus
+3621128,0,0,1,0,1,1,0,0,0,goose circovirus
+26201258,0,0,1,0,1,1,0,0,0,gouldian finch circovirus
+3848721,0,0,1,0,1,1,0,0,0,gull circovirus
+23539168,0,0,1,0,1,1,0,0,0,pigeon circovirus
+3470921,0,1,1,0,1,1,0,0,0,porcine circovirus
+3609825,0,0,1,0,1,1,0,0,0,porcine circovirus 1
+3539534,0,1,1,0,1,1,0,0,0,porcine circovirus 2
+3799245,0,0,1,0,1,1,0,0,0,raven circovirus
+3803014,0,0,1,0,1,1,0,0,0,starling circovirus
+3902353,0,0,1,0,1,1,0,0,0,swan circovirus
+26201260,0,0,1,0,1,1,0,0,0,zebra finch circovirus
+26747895,0,0,0,0,1,1,0,0,0,feline associated cyclovirus 1
+27394608,0,0,0,0,1,1,0,0,0,horse associated cyclovirus 1
+27307312,0,0,0,0,1,1,0,0,0,human associated cyclovirus 11
+26321396,0,0,0,0,1,1,0,0,0,human associated cyclovirus 8
+24584726,1,0,1,0,1,1,1,0,0,avian gyrovirus 2
+3437778,1,0,1,0,1,1,1,0,0,chicken anemia virus
+2218660,1,0,1,0,1,1,1,0,0,gyrovirus 10
+2547963,1,0,1,0,1,1,1,0,0,gyrovirus 11
+2583049,1,0,1,0,1,1,1,0,0,gyrovirus 3
+27238812,1,0,1,0,1,1,1,0,0,gyrovirus 4
+2583050,1,0,1,0,1,1,1,0,0,gyrovirus 6
+27463524,0,0,0,0,0,0,0,0,0,human associated gemykibivirus 4
+27492676,0,0,0,0,0,0,0,0,0,human associated gemykibivirus 5
+27407022,0,0,0,0,0,0,0,0,0,human associated gemyvongvirus 1
+26747873,1,0,0,0,0,0,1,0,0,arctic fox amdovirus
+25911109,1,0,0,0,0,0,1,0,0,carnivore amdoparvovirus 1
+26552469,1,0,0,0,0,0,1,0,0,carnivore amdoparvovirus 2
+27305904,1,0,0,0,0,0,1,0,0,carnivore amdoparvovirus 3
+26200954,1,0,0,0,1,1,1,0,0,galliform aveparvovirus 1
+26205118,1,0,0,0,0,0,1,0,0,bat bocavirus
+26747411,1,0,0,0,0,0,1,0,0,canine bocavirus
+26747643,1,0,0,0,0,0,1,0,0,canine bocavirus 3
+3784819,1,0,0,0,0,0,1,0,0,carnivore bocaparvovirus 1
+26318076,1,0,0,0,0,0,1,0,0,carnivore bocaparvovirus 3
+26747773,1,0,0,0,0,0,1,0,0,carnivore bocaparvovirus 4
+26747687,1,0,0,0,0,0,1,0,0,fox bocavirus
+4032202,1,0,0,0,0,0,1,0,0,human bocavirus 4
+27502044,1,0,0,0,0,0,1,0,0,human bufavirus
+27742799,1,0,0,0,0,0,1,0,0,miniopterus fuliginosus bocavirus
+24641367,1,0,0,0,0,0,1,0,0,pinniped bocaparvovirus 1
+24641369,1,0,0,0,0,0,1,0,0,pinniped bocaparvovirus 2
+27064412,1,0,0,0,0,0,1,0,0,porcine bocavirus
+24649679,1,0,0,0,0,0,1,0,0,porcine bocavirus 4
+26343680,1,0,0,0,0,0,1,0,0,porcine bocavirus 5
+26205402,1,0,0,0,0,0,1,0,0,primate bocaparvovirus 1
+26205640,1,0,0,0,0,0,1,0,0,primate bocaparvovirus 2
+27190778,1,0,0,0,0,0,1,0,0,rabbit bocaparvovirus
+26303126,1,0,0,0,0,0,1,0,0,rat bocavirus
+3435406,1,0,0,0,0,0,1,0,0,ungulate bocaparvovirus 1
+26355740,1,0,0,0,0,0,1,0,0,ungulate bocaparvovirus 2
+26355742,1,0,0,0,0,0,1,0,0,ungulate bocaparvovirus 3
+26553217,1,0,0,0,0,0,1,0,0,ungulate bocaparvovirus 5
+27718775,1,0,0,0,0,0,1,0,0,ungulate bocaparvovirus 6
+27786500,1,0,0,1,1,1,0,0,0,eidolon helvum parvovirus 2
+27064458,1,0,0,1,1,1,0,0,0,porcine parvovirus 7
+4083126,1,0,1,0,1,1,0,0,0,ungulate copiparvovirus 2
+26552295,1,0,0,0,0,0,1,0,0,adeno-associated dependoparvovirus a
+26552297,1,0,0,0,0,0,1,0,0,adeno-associated dependoparvovirus b
+3736135,1,0,0,0,0,0,1,0,0,adeno-associated virus
+3795985,1,0,0,1,0,0,1,0,0,anseriform dependoparvovirus 1
+3795984,1,0,0,0,0,0,1,0,0,avian dependoparvovirus 1
+4095360,1,0,0,0,0,0,1,0,0,chiropteran dependoparvovirus 1
+26747689,1,0,0,0,0,0,1,0,0,fox adeno-associated virus
+3795592,1,0,0,0,0,0,1,0,0,mouse adeno-associated virus 1
+26552931,1,0,0,0,0,0,1,0,0,pinniped dependoparvovirus 1
+3795593,1,0,0,0,0,0,1,0,0,rat adeno-associated virus 1
+26205642,1,0,0,0,0,0,1,0,0,primate erythroparvovirus 1
+3446955,1,0,0,0,0,0,1,0,0,primate erythroparvovirus 2
+26747693,1,0,0,0,1,1,1,0,0,fox parvovirus
+27810616,1,0,0,0,1,1,1,0,0,hipposideros pratti parvovirus
+3784821,1,0,0,0,1,1,1,0,0,human bocavirus
+27810618,1,0,0,0,1,1,1,0,0,miniopterus schreibersii parvovirus
+27810620,1,0,0,0,1,1,1,0,0,myotis ricketti parvovirus
+27860016,1,0,0,0,1,1,1,0,0,rangifer tarandus granti parvovirus
+27722105,1,0,0,0,1,1,1,0,0,sea otter parvovirus 1
+27327870,1,0,0,0,1,1,1,0,0,slow loris parvovirus 1
+27222176,1,0,0,0,1,1,1,0,0,artibeus jamaicensis parvovirus 1
+26205220,1,0,0,0,1,1,1,0,0,bat parvovirus
+26523804,1,0,0,0,1,1,1,0,0,bufavirus-1
+26523806,1,0,0,0,1,1,1,0,0,bufavirus-2
+26523836,1,0,0,0,1,1,1,0,0,bufavirus-3
+27064460,1,0,0,0,1,1,1,0,0,porcine bufavirus
+27064414,1,0,0,0,1,1,1,0,0,porcine partetravirus
+25911279,1,0,0,0,1,1,1,1,0,carnivore protoparvovirus 1
+27440409,1,0,0,0,1,1,1,0,0,chiropteran protoparvovirus 1
+3435408,1,0,0,0,1,1,1,0,0,feline parvovirus
+3465118,1,0,0,0,1,1,1,0,0,hamster parvovirus
+27327782,1,0,0,0,1,1,1,0,0,livingstone bufavirus
+27440397,1,0,0,0,1,1,1,0,0,megabat bufavirus 2
+27614199,1,0,0,0,1,1,1,0,0,mfuwe bufavirus
+27327780,1,0,0,0,1,1,1,0,0,mpulungu bufavirus
+27064386,1,0,0,0,1,1,1,0,0,porcine parvovirus 2
+27064388,1,0,0,0,1,1,1,0,0,porcine parvovirus 3
+27064420,1,0,0,0,1,1,1,0,0,porcine parvovirus 5
+27064432,1,0,0,0,1,1,1,0,0,porcine parvovirus 6
+26302866,1,0,0,0,1,1,1,0,0,rat minute virus
+3435425,1,0,0,0,1,1,1,0,0,rodent protoparvovirus 1
+26745923,1,0,0,0,1,1,1,0,0,seal parvovirus
+27614211,1,0,0,0,1,1,1,0,0,solwezi bufavirus
+26201224,1,0,0,0,1,1,1,0,0,turkey parvovirus 1078
+3435429,1,0,0,0,1,1,1,0,0,ungulate protoparvovirus 1
+26319152,1,0,0,0,1,1,1,0,0,chiropteran tetraparvovirus 1
+3748335,1,0,1,1,1,1,1,0,0,primate tetraparvovirus 1
+26355746,1,0,0,0,1,1,1,0,0,ungulate tetraparvovirus 1
+3933119,1,0,0,0,1,1,1,0,0,ungulate tetraparvovirus 2
+26355748,1,0,0,0,1,1,1,0,0,ungulate tetraparvovirus 3
+26355750,1,0,0,0,1,1,1,0,0,ungulate tetraparvovirus 4
+27623029,0,0,0,0,0,0,0,0,0,human smacovirus 1
+26205554,0,0,0,0,0,0,0,0,0,gorilla smacovirus
+27627521,0,0,0,0,0,0,0,0,0,black howler monkey smacovirus
+26205624,0,0,0,0,0,0,0,0,0,chimpanzee smacovirus
+27342242,0,0,0,0,0,0,0,0,0,lemur smacovirus
+3435730,1,0,0,0,1,1,0,1,0,infectious bursal disease virus
+4196498,1,0,0,0,0,0,0,0,0,chicken proventricular necrosis virus
+25871175,0,0,0,0,1,1,0,0,0,bovine picobirnavirus
+25871185,0,0,0,0,1,1,0,0,0,chicken picobirnavirus
+25871209,0,0,0,0,1,1,0,0,0,dromedary picobirnavirus
+25871225,0,0,0,0,1,1,0,0,0,feline picobirnavirus
+25871229,0,0,0,0,1,1,0,0,0,fox picobirnavirus
+3620988,0,0,0,0,1,1,0,0,0,human picobirnavirus
+25871279,0,0,0,0,1,1,0,0,0,otarine picobirnavirus
+3886774,0,0,0,0,1,1,0,0,0,porcine picobirnavirus
+3572356,0,0,0,0,1,1,0,0,0,rabbit picobirnavirus
+26201234,0,0,0,0,1,1,0,0,0,turkey picobirnavirus
+3472021,0,0,0,0,0,0,0,0,1,colorado tick fever virus
+3499249,0,0,0,0,0,0,0,0,1,eyach virus
+3460146,0,0,0,0,0,0,0,0,1,african horse sickness virus
+26532154,0,0,0,0,0,0,0,0,1,baku virus
+3460148,1,0,0,0,0,0,0,0,1,bluetongue virus
+22681827,0,0,0,0,0,0,0,0,1,changuinola virus
+3460152,0,0,0,0,0,0,0,0,1,epizootic hemorrhagic disease virus
+3671890,0,0,0,0,0,0,0,0,1,equine encephalosis virus
+3460154,0,0,0,0,0,0,0,0,1,eubenangee virus
+3674497,0,0,0,0,0,0,0,0,1,great island virus
+26532146,0,0,0,0,0,0,0,0,1,heramatsu virus
+22683139,0,0,0,0,0,0,0,0,1,lebombo virus
+3906921,0,0,0,0,0,0,0,0,1,middle point orbivirus
+26532144,0,0,0,0,0,0,0,0,1,mobuck virus
+22683091,0,0,0,0,0,0,0,0,1,orungo virus
+3460156,0,0,0,0,0,0,0,0,1,palyam virus
+3809306,0,0,0,0,0,0,0,0,1,peruvian horse sickness virus
+26532140,0,0,0,0,0,0,0,0,1,sathuvachari virus
+3763440,0,0,0,0,0,0,0,0,1,yunnan orbivirus
+3456925,1,0,0,0,1,1,1,0,0,avian orthoreovirus
+3522003,1,0,0,0,1,1,1,0,0,baboon orthoreovirus
+4050298,1,0,0,0,1,1,1,0,0,broome virus
+3804442,1,0,0,0,1,1,1,0,0,mammalian orthoreovirus
+3595788,1,0,0,0,1,1,1,0,0,nelson bay orthoreovirus
+25926061,1,0,0,0,1,1,1,0,0,pteropine orthoreovirus
+27858726,1,0,0,0,1,1,1,0,0,tvarminne avian virus
+26205252,0,0,0,0,1,1,0,1,0,bat rotavirus
+24641372,0,0,0,0,1,1,0,1,0,california sea lion rotavirus 1
+3435648,0,0,0,0,1,1,0,1,0,equine rotavirus
+3435622,0,0,0,0,1,1,0,1,0,feline rotavirus
+26747775,0,0,0,0,1,1,0,1,0,feline rotavirus viseu
+27725495,0,0,0,0,1,1,0,1,0,human rotavirus
+3442126,0,0,0,0,1,1,0,1,0,murine rotavirus
+3442995,0,0,0,0,1,1,0,1,0,rotavirus a
+3442996,0,0,0,0,1,1,0,1,0,rotavirus b
+3454045,0,0,0,0,1,1,0,1,0,rotavirus c
+3789868,0,0,0,0,1,1,0,1,0,rotavirus d
+3655237,0,0,0,0,1,1,0,1,0,rotavirus f
+26346512,0,0,0,0,1,1,0,1,0,rotavirus h
+26745797,0,0,0,0,1,1,0,1,0,rotavirus i
+3525422,0,0,0,0,0,0,0,0,1,banna virus
+3572703,0,0,0,0,0,0,0,0,1,kadipiro virus
+3712150,0,0,0,0,0,0,0,0,1,liao ning virus
+3435819,1,1,1,0,0,0,1,0,0,alphaarterivirus equid
+26302980,1,1,0,1,0,0,1,0,0,norway rat arterivirus
+3442132,1,1,1,1,0,1,1,0,0,porcine reproductive and respiratory syndrome virus
+27467906,1,1,0,1,0,0,1,0,0,rodent arterivirus
+26205528,1,1,0,1,0,0,1,0,0,southwest baboon virus 1
+26303110,1,1,0,1,0,0,1,0,0,betaarterivirus chinrav 1
+3435821,1,1,0,1,0,0,1,0,0,gammaarterivirus lacdeh
+3456873,1,1,0,1,0,0,1,0,0,deltaarterivirus hemfev
+27220424,1,1,0,1,0,0,1,0,0,kappaarterivirus wobum
+27388952,1,1,0,1,0,0,1,0,0,deltaarterivirus pejah
+26205532,1,1,0,1,0,0,1,0,0,thetaarterivirus kafuba
+26205526,1,1,0,1,0,0,1,0,0,thetaarterivirus mikelba 1
+27699795,0,0,0,0,1,1,0,0,0,bastrovirus bas-1
+1906171,0,0,0,0,1,1,0,0,0,bastrovirus bas-2
+2025398,0,0,0,0,1,1,0,0,0,bastrovirus bas-3
+26205112,0,0,0,0,1,1,0,0,0,bat astrovirus
+2169486,0,0,0,0,1,1,0,0,0,bat bastrovirus
+4220459,0,0,0,0,1,1,0,0,0,bottlenose dolphin astrovirus 2
+4220461,0,0,0,0,1,1,0,0,0,bottlenose dolphin astrovirus 4
+4220462,0,0,0,0,1,1,0,0,0,bottlenose dolphin astrovirus 5
+4220463,0,0,0,0,1,1,0,0,0,bottlenose dolphin astrovirus 6
+4220464,0,0,0,0,1,1,0,0,0,bottlenose dolphin astrovirus 7
+4220465,0,0,0,0,1,1,0,0,0,bottlenose dolphin astrovirus 8
+26745673,0,0,0,0,1,1,0,0,0,bovine astrovirus neuros1
+24641359,0,0,0,0,1,1,0,0,0,california sea lion astrovirus 10
+24641360,0,0,0,0,1,1,0,0,0,california sea lion astrovirus 11
+4032422,0,0,0,0,1,1,0,0,0,california sea lion astrovirus 3
+24641361,0,0,0,0,1,1,0,0,0,california sea lion astrovirus 4
+24641362,0,0,0,0,1,1,0,0,0,california sea lion astrovirus 5
+24641363,0,0,0,0,1,1,0,0,0,california sea lion astrovirus 6
+24641364,0,0,0,0,1,1,0,0,0,california sea lion astrovirus 7
+24641365,0,0,0,0,1,1,0,0,0,california sea lion astrovirus 8
+24641366,0,0,0,0,1,1,0,0,0,california sea lion astrovirus 9
+24568841,0,0,0,0,1,1,0,0,0,feral pigeon astrovirus
+26747691,0,0,0,0,1,1,0,0,0,fox astrovirus
+26747685,0,0,0,0,1,1,0,0,0,fox astrovirus f4
+2461425,0,0,0,0,1,1,0,0,0,goat astrovirus
+2039492,0,0,0,0,1,1,0,0,0,house shrew astrovirus
+27079817,0,0,0,0,1,1,0,0,0,human astrovirus
+27425849,0,0,0,0,1,1,0,0,0,megaerops kusnotoi astrovirus
+27742755,0,0,0,0,1,1,0,0,0,miniopterus fuliginosus astrovirus
+1195280,0,0,0,0,1,1,0,0,0,miniopterus schreibersii astrovirus 1
+1195281,0,0,0,0,1,1,0,0,0,miniopterus schreibersii astrovirus 10
+1195282,0,0,0,0,1,1,0,0,0,miniopterus schreibersii astrovirus 11
+1195283,0,0,0,0,1,1,0,0,0,miniopterus schreibersii astrovirus 12
+1195284,0,0,0,0,1,1,0,0,0,miniopterus schreibersii astrovirus 13
+1195285,0,0,0,0,1,1,0,0,0,miniopterus schreibersii astrovirus 2
+1195286,0,0,0,0,1,1,0,0,0,miniopterus schreibersii astrovirus 3
+1195287,0,0,0,0,1,1,0,0,0,miniopterus schreibersii astrovirus 4
+1195288,0,0,0,0,1,1,0,0,0,miniopterus schreibersii astrovirus 5
+1195289,0,0,0,0,1,1,0,0,0,miniopterus schreibersii astrovirus 6
+1195290,0,0,0,0,1,1,0,0,0,miniopterus schreibersii astrovirus 7
+1195291,0,0,0,0,1,1,0,0,0,miniopterus schreibersii astrovirus 8
+1195292,0,0,0,0,1,1,0,0,0,miniopterus schreibersii astrovirus 9
+4220466,0,0,0,0,1,1,0,0,0,minke whale astrovirus 1
+26302812,0,0,0,0,1,1,0,0,0,murine astrovirus
+2171379,0,0,0,0,1,1,0,0,0,murine astrovirus 1
+2171380,0,0,0,0,1,1,0,0,0,murine astrovirus 2
+1195368,0,0,0,0,1,1,0,0,0,myotis ricketti astrovirus 1
+4220468,0,0,0,0,1,1,0,0,0,orca astrovirus 1
+2576226,0,0,0,0,1,1,0,0,0,passerine astrovirus 1
+2576227,0,0,0,0,1,1,0,0,0,passerine astrovirus 2
+2576228,0,0,0,0,1,1,0,0,0,passerine astrovirus 3
+2576229,0,0,0,0,1,1,0,0,0,passerine astrovirus 4
+24657742,0,0,0,0,1,1,0,0,0,porcine astrovirus 5
+2588662,0,0,0,0,1,1,0,0,0,porcine bastrovirus
+26205652,0,0,0,0,1,1,0,0,0,primate astrovirus
+2039491,0,0,0,0,1,1,0,0,0,rat astrovirus
+2126056,0,0,0,0,1,1,0,0,0,rhesus monkey astrovirus
+2108207,0,0,0,0,1,1,0,0,0,rhinolophus ferrumequinum astrovirus
+2108208,0,0,0,0,1,1,0,0,0,rhinolophus pusillus astrovirus
+1195369,0,0,0,0,1,1,0,0,0,rhinolophus sinicus astrovirus 1
+2565393,0,0,0,0,1,1,0,0,0,ruddy turnstone astrovirus
+27803974,0,0,0,0,1,1,0,0,0,shorebird astrovirus
+2050009,0,0,0,0,1,1,0,0,0,shrew astrovirus
+2220003,0,0,0,0,1,1,0,0,0,sichuan takin astrovirus
+2529473,0,0,0,0,1,1,0,0,0,tasmanian devil-associated astrovirus 1
+1195375,0,0,0,0,1,1,0,0,0,tylonycteris robustula astrovirus 1
+26745739,0,0,0,0,1,1,0,0,0,water buffalo astrovirus
+24568842,0,0,0,0,1,1,0,0,0,wood pigeon astrovirus
+26552355,0,0,0,0,1,1,0,0,0,avastrovirus 1
+26552357,0,0,0,0,1,1,0,0,0,avastrovirus 2
+26200944,0,0,0,0,1,1,0,0,0,avastrovirus 3
+26201192,0,0,0,0,1,1,0,0,0,avian nephritis virus
+4028201,0,0,0,0,1,1,0,0,0,avian nephritis virus 3
+3791609,0,0,0,0,1,1,0,0,0,chicken astrovirus
+3974186,0,0,0,0,1,1,0,0,0,chicken astrovirus 2
+27501724,0,0,0,0,1,1,0,0,0,duck astrovirus 3
+4194785,0,0,0,0,1,1,0,0,0,duck astrovirus gii.a
+3805435,0,0,0,0,1,1,0,0,0,duck hepatitis virus 3
+26748071,0,0,0,0,1,1,0,0,0,feline avastrovirus
+26201200,0,0,0,0,1,1,0,0,0,goose astrovirus
+28075127,0,0,0,0,1,1,0,0,0,guinea fowl astrovirus
+2161797,0,0,0,0,1,1,0,0,0,marmot astrovirus 1
+2161798,0,0,0,0,1,1,0,0,0,marmot astrovirus 2
+2161799,0,0,0,0,1,1,0,0,0,marmot astrovirus 3
+2161800,0,0,0,0,1,1,0,0,0,marmot astrovirus 4
+2161801,0,0,0,0,1,1,0,0,0,marmot astrovirus 5
+2161802,0,0,0,0,1,1,0,0,0,marmot astrovirus 6
+27864762,0,0,0,0,1,1,0,0,0,mink avastrovirus
+2592511,0,0,0,0,1,1,0,0,0,pink-eared duck avastrovirus
+2592512,0,0,0,0,1,1,0,0,0,red-necked stint avastrovirus
+3512919,0,0,0,0,1,1,0,0,0,turkey astrovirus
+3756647,0,0,0,0,1,1,0,0,0,turkey astrovirus 3
+3977363,0,0,0,0,1,1,0,0,0,bat astrovirus 1
+4220460,0,0,0,0,1,1,0,0,0,bottlenose dolphin astrovirus 3
+23539052,0,0,0,0,1,1,0,0,0,bovine astrovirus
+26316980,0,0,0,0,1,1,0,0,0,burkina faso astrovirus
+26747467,0,0,0,0,1,1,0,0,0,canine astrovirus
+26552463,0,0,0,0,1,1,0,0,0,canine astrovirus 1
+3958925,0,0,0,0,1,1,0,0,0,cheetah astrovirus 1
+24330059,0,0,0,0,1,1,0,0,0,dog astrovirus
+27660195,0,0,0,0,1,1,0,0,0,dromedary astrovirus
+26328080,0,0,0,0,1,1,0,0,0,feline astrovirus 2
+26748073,0,0,0,0,1,1,0,0,0,feline mamastrovirus
+4063617,0,0,0,0,1,1,0,0,0,hmo astrovirus a
+4063618,0,0,0,0,1,1,0,0,0,hmo astrovirus b
+4063619,0,0,0,0,1,1,0,0,0,hmo astrovirus c
+26552795,0,0,0,0,1,1,0,0,0,mamastrovirus 1
+3688849,0,0,0,0,1,1,0,0,0,mamastrovirus 10
+4032420,0,0,0,0,1,1,0,0,0,mamastrovirus 11
+4021711,0,0,0,0,1,1,0,0,0,mamastrovirus 12
+3512921,0,0,0,0,1,1,0,0,0,mamastrovirus 13
+1239578,0,0,0,0,1,1,0,0,0,mamastrovirus 14
+4021712,0,0,0,0,1,1,0,0,0,mamastrovirus 15
+1239580,0,0,0,0,1,1,0,0,0,mamastrovirus 16
+4021665,0,0,0,0,1,1,0,0,0,mamastrovirus 17
+1239582,0,0,0,0,1,1,0,0,0,mamastrovirus 18
+4021703,0,0,0,0,1,1,0,0,0,mamastrovirus 19
+3520753,0,0,0,0,1,1,0,0,0,mamastrovirus 2
+26552797,0,0,0,0,1,1,0,0,0,mamastrovirus 3
+27509451,0,0,0,0,1,1,0,0,0,mamastrovirus 4
+27509453,0,0,0,0,1,1,0,0,0,mamastrovirus 5
+27509455,0,0,0,0,1,1,0,0,0,mamastrovirus 6
+4032419,0,0,0,0,1,1,0,0,0,mamastrovirus 7
+1239572,0,0,0,0,1,1,0,0,0,mamastrovirus 8
+4115924,0,0,0,0,1,1,0,0,0,mamastrovirus 9
+4220467,0,0,0,0,1,1,0,0,0,minke whale astrovirus 2
+27064444,0,0,0,0,1,1,0,0,0,porcine astrovirus 1
+27064382,0,0,0,0,1,1,0,0,0,porcine astrovirus 2
+27064424,0,0,0,0,1,1,0,0,0,porcine astrovirus 3
+27064384,0,0,0,0,1,1,0,0,0,porcine astrovirus 4
+1961665,0,0,0,0,1,1,0,0,0,qinghai Himalayan marmot astrovirus 1
+1961666,0,0,0,0,1,1,0,0,0,qinghai Himalayan marmot astrovirus 2
+1914442,0,0,0,0,1,1,0,0,0,rodent astrovirus
+4032423,0,0,0,0,1,1,0,0,0,steller sea lion astrovirus 1
+26201212,1,0,0,0,1,1,0,0,0,bavaria virus
+26205122,1,0,0,0,1,1,0,0,0,bat calicivirus
+27598650,1,0,0,0,1,1,0,0,0,ferret badger calicivirus
+4033158,1,0,0,0,1,1,0,0,0,st-valerien swine virus
+3449703,1,0,0,0,1,1,0,1,0,european brown hare syndrome virus
+3436986,1,0,0,0,1,1,0,1,0,rabbit hemorrhagic disease virus
+26201226,1,0,0,0,1,1,0,0,0,nacovirus a
+26745809,1,0,0,0,1,1,0,0,0,bovine nebovirus
+4074883,1,0,0,0,1,1,0,0,0,newbury 1 virus
+26205216,1,0,0,0,1,1,0,1,0,bat norovirus
+3437000,1,0,0,0,1,1,0,1,0,norwalk virus
+4170942,1,0,0,0,1,1,0,1,0,rhesus macaque norovirus
+4172330,1,0,0,0,1,1,0,0,0,rhesus macaque recovirus
+24641377,1,0,0,0,1,1,0,0,0,california sea lion sapovirus 1
+3556752,1,0,0,0,1,1,0,1,0,sapporo virus
+26747485,1,0,0,0,0,0,1,0,0,canine vesivirus
+3436990,1,0,0,1,1,1,1,1,0,feline calicivirus
+3760702,1,0,0,0,0,0,1,0,0,rabbit vesivirus
+26747931,1,0,0,0,0,0,1,0,0,san miguel sea lion virus 8
+3452596,1,0,0,0,0,1,1,0,0,vesicular exanthema of swine virus
+3683174,0,0,,0,0,1,0,0,0,providence virus
+4073256,1,0,0,0,1,1,1,1,0,alphacoronavirus 1
+27581700,1,0,0,0,1,1,1,1,0,anlong ms bat coronavirus
+26205152,1,0,0,0,1,1,1,1,0,bat coronavirus hku10
+27512803,1,0,0,0,1,1,1,1,0,ferret coronavirus
+3435981,1,0,0,0,1,1,1,1,0,human coronavirus 229e
+3738341,1,0,0,0,1,1,1,1,0,human coronavirus nl63
+26302948,1,0,0,0,1,1,1,1,0,lucheng rn rat coronavirus
+27304458,1,0,0,0,1,1,1,1,0,lushi ml bat coronavirus
+4073260,1,0,0,0,1,1,1,1,0,miniopterus bat coronavirus hku8
+27304460,1,0,0,0,1,1,1,1,0,neixiang md bat coronavirus
+3442103,1,0,0,0,1,1,1,1,0,porcine epidemic diarrhea virus
+4073257,1,0,0,0,1,1,1,1,0,rhinolophus bat coronavirus hku2
+4073258,1,0,0,0,1,1,1,1,0,scotophilus bat coronavirus 512
+27304464,1,0,0,0,1,1,1,1,0,wencheng sm shrew coronavirus
+27457890,1,0,0,0,1,1,1,1,0,alpaca coronavirus
+26205114,1,0,0,0,1,1,1,1,0,bat betacoronavirus
+4073262,1,0,0,0,1,1,1,1,0,betacoronavirus 1
+27332472,1,0,0,0,1,1,1,1,0,china rattus coronavirus hku24
+3748805,1,0,0,0,1,1,1,1,0,human coronavirus hku1
+27581703,1,0,0,0,1,1,1,1,0,longquan aa mouse coronavirus
+26302946,1,0,0,0,1,1,1,1,0,longquan rl rat coronavirus
+25865473,1,0,0,0,1,1,1,1,0,middle east respiratory syndrome-related coronavirus
+4073263,1,0,0,0,1,1,1,1,0,murine coronavirus
+4073266,1,0,0,0,1,1,1,1,0,pipistrellus bat coronavirus hku5
+27724327,1,0,0,0,1,1,1,1,0,rousettus bat coronavirus gccdc1
+4073264,1,0,0,0,1,1,1,1,0,rousettus bat coronavirus hku9
+4073267,1,0,0,0,1,1,1,1,0,severe acute respiratory syndrome-related coronavirus
+4073265,1,0,0,0,1,1,1,1,0,tylonycteris bat coronavirus hku4
+4245730,1,0,0,0,1,1,1,1,0,zaria bat coronavirus
+26205126,1,0,0,0,1,1,1,0,0,bat coronavirus
+3697176,1,0,0,0,1,1,1,0,0,chicken enteric coronavirus
+26201252,1,0,0,0,1,1,1,0,0,duck-dominant coronavirus
+27829366,1,0,0,0,1,1,1,0,0,eurasian oystercatcher coronavirus
+27721963,1,0,0,0,1,1,1,0,0,kerivoula titania coronavirus
+27721965,1,0,0,0,1,1,1,0,0,miniopterus fuliginosus coronavirus
+27859440,1,0,0,0,1,1,1,0,0,myotis daubentonii coronavirus
+27859442,1,0,0,0,1,1,1,0,0,myotis davidii coronavirus
+27498738,1,0,0,0,1,1,1,0,0,myotis latirostis coronavirus
+26201208,1,0,0,0,1,1,1,0,0,pigeon-dominant coronavirus
+27190780,1,0,0,0,1,1,1,0,0,rabbit coronavirus
+27785053,1,0,0,0,1,1,1,0,0,rhinolophus ferrumequinum coronavirus
+27785055,1,0,0,0,1,1,1,0,0,rhinolophus hipposideros coronavirus
+27498740,1,0,0,0,1,1,1,0,0,rhinolophus monoceros coronavirus
+27721961,1,0,0,0,1,1,1,0,0,scotophilus kuhlii coronavirus
+27373536,1,0,0,0,1,1,1,0,0,suncus coronavirus
+3998099,1,0,0,0,1,1,1,0,0,bulbul coronavirus hku11
+26343682,1,0,0,0,1,1,1,0,0,coronavirus hku15
+27669438,1,0,0,0,1,1,1,0,0,deltacoronavirus b04
+26552833,1,0,0,0,1,1,1,0,0,munia coronavirus hku13
+26553101,1,0,0,0,1,1,1,0,0,thrush coronavirus hku12
+4073271,1,0,0,0,1,1,1,0,0,avian coronavirus
+4073272,1,0,0,0,1,1,1,0,0,beluga whale coronavirus sw1
+26205168,0,0,0,0,0,1,0,0,0,bat dicistrovirus
+3543083,0,0,0,0,0,0,0,0,1,turkey meningoencephalitis virus
+3502593,0,0,0,0,0,0,0,0,1,aroa virus
+3502568,1,0,0,0,0,0,0,0,1,bagaza virus
+3502578,0,0,0,0,0,0,0,0,1,bouboui virus
+3502597,0,0,0,0,0,0,0,0,1,cacipacore virus
+3437782,0,1,1,1,0,0,0,0,1,dengue virus
+24638638,0,0,0,0,0,0,0,0,1,duck hemorrhagic ovaritis virus
+3502555,0,0,0,1,0,0,0,0,0,entebbe bat virus
+3494389,0,0,0,0,0,0,0,0,1,ilheus virus
+3502570,0,0,0,0,0,0,0,0,1,israel turkey meningoencephalomyelitis virus
+3435860,0,0,0,0,0,0,0,0,1,japanese encephalitis virus
+3502585,0,0,0,0,0,0,0,0,1,jutiapa virus
+3449682,0,0,0,0,0,0,0,0,1,kyasanur forest disease virus
+3435886,0,0,0,0,0,0,0,0,1,langat virus
+3435888,0,0,0,0,0,0,0,0,1,louping ill virus
+3502587,1,0,0,0,0,0,0,0,0,modoc virus
+3435874,0,0,0,0,0,0,0,0,1,murray valley encephalitis virus
+3437760,1,0,0,1,0,0,1,1,1,omsk hemorrhagic fever virus
+3503560,1,0,0,0,0,0,0,0,0,phnom penh bat virus
+3435882,0,0,0,0,0,0,0,0,1,powassan virus
+3502559,1,0,0,0,0,0,1,1,0,rio bravo virus
+3502565,0,0,0,0,0,0,0,0,1,royal farm virus
+3502557,0,0,0,0,0,0,0,0,1,saboya virus
+3435876,0,0,0,0,0,0,0,0,1,saint louis encephalitis virus
+3502621,0,0,0,0,0,0,0,0,1,sokoluk virus
+26532106,0,0,0,0,0,0,0,0,1,spanish goat encephalitis virus
+3502623,0,0,0,0,0,0,0,0,1,spondweni virus
+3635119,0,0,0,0,0,0,0,0,1,tamana bat virus
+3502574,1,0,0,0,0,0,1,1,1,tembusu virus
+3435884,0,0,1,1,0,1,0,0,1,tick-borne encephalitis virus
+3502581,0,0,0,0,0,0,0,0,1,uganda s virus
+3502561,0,0,0,0,0,0,0,0,1,usutu virus
+3637662,0,0,1,0,0,0,0,0,1,wesselsbron virus
+3435880,0,0,1,1,0,0,0,0,1,west nile virus
+3435894,0,0,1,1,0,0,0,0,1,yellow fever virus
+3502627,0,1,1,1,0,0,0,0,1,zika virus
+25871155,0,1,0,1,0,0,0,0,0,bat hepacivirus
+25871173,0,1,0,1,0,0,0,0,0,bovine hepacivirus
+25871179,0,1,0,1,0,0,0,0,0,canine hepacivirus
+25871219,0,1,0,1,0,0,0,0,0,equine hepacivirus
+3435919,0,1,1,1,0,0,0,0,0,hepacivirus c
+25871269,0,1,0,1,0,0,0,0,0,hepacivirus g
+25871271,0,1,0,1,0,0,0,0,0,hepacivirus h
+25871267,0,1,0,1,0,0,0,0,0,non-primate hepacivirus
+25871291,0,1,0,1,0,0,0,0,0,rodent hepacivirus
+25870178,0,0,0,1,0,0,0,0,0,norway rat pegivirus
+25866305,0,1,1,1,0,0,0,0,0,pegivirus a
+25866313,0,1,1,1,0,0,0,0,0,pegivirus b
+25866339,0,1,1,1,0,0,0,0,0,pegivirus c
+25866472,0,0,0,1,0,0,0,0,0,pegivirus d
+25866481,0,1,1,1,0,0,0,0,0,pegivirus e
+25870174,0,0,0,1,0,0,0,0,0,pegivirus h
+25870180,0,0,0,1,0,0,0,0,0,porcine pegivirus
+25870182,0,1,1,1,0,0,0,0,0,rodent pegivirus
+26532094,0,0,0,1,0,0,0,0,0,shrew pegivirus
+25871147,1,0,1,1,0,0,0,0,0,atypical porcine pestivirus
+26532000,1,0,1,1,0,0,0,0,0,lamb pestivirus
+27063176,1,0,1,1,0,0,0,0,0,linda virus
+26302984,1,0,1,1,0,0,0,0,0,norway rat pestivirus
+3478041,1,0,1,1,0,0,0,0,0,ovine pestivirus
+3435911,1,1,1,1,0,1,1,1,0,pestivirus a
+3485017,1,0,1,1,0,1,1,1,0,pestivirus b
+3435905,1,1,1,1,0,1,1,1,0,pestivirus c
+3811043,1,1,1,1,0,0,0,0,0,pestivirus d
+3660347,1,0,1,1,0,0,0,0,0,pestivirus e
+3831989,1,0,1,1,0,1,1,1,0,pestivirus h
+25871149,1,0,1,1,0,0,0,0,0,pestivirus i
+27064452,1,0,1,1,0,0,0,0,0,pestivirus k
+27352658,1,0,1,1,0,0,0,0,0,rhinolophus affinis pestivirus 1
+26745857,1,0,1,1,0,0,0,0,0,tunisian small ruminant pestivirus
+26205194,0,0,0,0,1,1,0,1,0,bat hepevirus
+26747695,0,0,0,0,1,1,0,1,0,fox hepatitis e virus
+26552879,0,0,0,0,1,1,0,1,0,orthohepevirus a
+3645355,1,0,0,0,1,1,0,1,0,orthohepevirus b
+27742777,0,0,0,0,0,1,0,0,0,miniopterus fuliginosus iflavirus
+26205196,0,0,0,0,0,1,0,0,0,bat luteovirus
+27786268,1,0,0,0,1,1,1,0,0,rangifer tarandus granti nidovirus
+27798261,1,0,0,0,1,1,0,0,0,fesavirus 4
+4169881,1,0,0,0,1,1,0,0,0,calhevirus 1
+26317172,1,0,0,0,1,1,0,0,0,calhevirus 2
+26747505,1,0,0,0,1,1,0,0,0,canine picornavirus
+4169882,1,0,0,0,1,1,0,0,0,tetnovirus 1
+4169883,1,0,0,0,1,1,0,0,0,tetnovirus 2
+27217050,1,0,0,0,1,1,0,0,0,posavirus 1
+27217052,1,0,0,0,1,1,0,0,0,posavirus 2
+27392358,1,0,0,0,1,1,0,0,0,posavirus 3
+26205214,0,0,0,0,0,1,0,0,0,bat nodavirus
+26745585,1,0,0,1,0,0,1,0,0,bovine rhinitis a virus
+4072566,1,0,0,1,0,0,1,0,0,bovine rhinitis b virus
+3472300,1,0,0,1,0,0,1,0,0,equine rhinitis a virus
+3437188,1,0,0,1,0,1,1,1,0,foot-and-mouth disease virus
+4071568,0,0,0,0,1,1,0,0,0,avihepatovirus a
+26200950,0,0,0,0,1,1,0,0,0,avisivirus a
+27870647,0,0,0,0,1,1,0,0,0,avisivirus b
+27870649,0,0,0,0,1,1,0,0,0,avisivirus c
+25911107,0,0,0,0,1,1,0,1,0,cardiovirus a
+3674919,0,0,0,0,1,1,0,1,0,cardiovirus b
+27521097,0,0,0,0,1,1,0,1,0,cardiovirus c
+27238814,0,0,0,0,1,1,0,1,0,encephalomyocarditis virus type 2
+26552519,0,0,0,0,1,1,0,0,0,cosavirus a
+27079819,0,0,0,0,1,1,0,0,0,human cosavirus
+26317056,0,0,0,0,1,1,0,0,0,cadicivirus a
+4000649,1,0,0,0,1,1,1,0,0,bottlenose dolphin enterovirus
+3437109,1,0,0,0,1,1,1,0,0,coxsackievirus
+3614624,1,0,0,0,1,1,1,1,0,enterovirus a
+3614625,1,0,0,0,1,1,1,1,0,enterovirus b
+3614626,1,0,0,0,1,1,1,1,0,enterovirus c
+3614627,1,0,0,0,1,1,1,0,0,enterovirus d
+3437105,1,0,0,0,1,1,1,0,0,enterovirus e
+26552619,1,0,0,0,1,1,1,1,0,enterovirus f
+3576915,1,0,0,0,1,1,1,1,0,enterovirus g
+3767612,1,0,0,0,1,1,1,0,0,enterovirus h
+27643580,1,0,0,0,1,1,1,0,0,enterovirus i
+26323910,1,0,0,0,1,1,0,1,0,enterovirus j
+27707351,1,0,0,0,1,1,1,0,0,enterovirus l
+26745837,1,0,0,0,1,1,1,0,0,goat enterovirus
+27322052,1,0,0,0,1,1,1,0,0,human echovirus
+27079821,1,0,0,0,1,1,1,0,0,human enterovirus
+3622611,1,0,0,0,1,1,1,0,0,rhinovirus a
+3622612,1,0,0,0,1,1,1,0,0,rhinovirus b
+3905854,1,0,0,0,1,1,1,0,0,rhinovirus c
+27628077,1,0,0,0,1,1,1,0,0,yak enterovirus
+3768800,0,0,0,0,1,1,0,0,0,erbovirus a
+27799895,0,0,0,0,1,1,0,0,0,chicken gallivirus 1
+26200952,0,0,0,0,1,1,0,0,0,gallivirus a
+27649463,1,0,0,0,1,1,0,0,0,harkavirus a
+26205192,1,0,0,1,1,1,0,0,0,bat hepatovirus
+27684677,0,0,0,1,1,1,0,0,0,hedgehog hepatovirus
+3437161,1,1,0,1,1,1,0,1,0,hepatovirus a
+27088382,0,0,0,1,1,1,0,0,0,rodent hepatovirus
+27684675,0,0,0,1,1,1,0,0,0,shrew hepatovirus
+27455006,0,0,0,1,1,1,0,0,0,tupaia hepatovirus a
+26310406,0,0,0,0,1,1,0,0,0,hunnivirus a
+26302982,1,0,0,0,1,1,0,0,0,norway rat hunnivirus
+3515363,0,0,0,0,1,1,0,1,0,aichivirus a
+3665716,0,0,0,0,1,1,0,0,0,aichivirus b
+26310400,0,0,0,0,1,1,0,0,0,aichivirus c
+27724797,0,0,0,0,1,1,0,0,0,aichivirus d
+27190776,0,0,0,0,1,1,0,0,0,aichivirus e
+26205228,0,0,0,0,1,1,0,0,0,aichivirus f
+26745735,0,0,0,0,1,1,0,0,0,bovine kobuvirus
+26748095,0,0,0,0,1,1,0,0,0,canine kobuvirus
+26745717,0,0,0,0,1,1,0,0,0,caprine kobuvirus
+27786488,0,0,0,0,1,1,0,0,0,eidolon helvum kobuvirus
+27758097,0,0,0,0,1,1,0,0,0,ferret kobuvirus
+26747803,0,0,0,0,1,1,0,0,0,fox kobuvirus
+27705979,0,0,0,0,1,1,0,0,0,kobuvirus bamboo rat
+26302976,0,0,0,0,1,1,0,0,0,norway rat kobuvirus 1
+26302978,0,0,0,0,1,1,0,0,0,norway rat kobuvirus 2
+26745733,0,0,0,0,1,1,0,0,0,ovine kobuvirus
+27628079,0,0,0,0,1,1,0,0,0,yak kobuvirus
+27804192,1,0,0,0,1,1,0,0,0,kunsagivirus a
+26201216,1,0,0,0,1,1,0,0,0,chicken megrivirus
+26201246,1,0,0,0,1,1,0,0,0,duck megrivirus
+26201232,1,0,0,0,1,1,0,0,0,turkey megrivirus
+26552805,1,0,0,0,1,1,0,0,0,melegrivirus a
+26336712,1,0,0,0,1,1,0,0,0,mischivirus a
+26337050,1,0,0,0,1,1,0,0,0,mosavirus a
+26552885,1,0,0,0,1,1,0,0,0,oscivirus a
+27317562,0,0,0,0,1,1,0,0,0,manhattan parechovirus
+27699955,0,0,0,0,1,1,0,0,0,parechovirus 1
+27699957,0,0,0,0,1,1,0,0,0,parechovirus 3
+27699959,0,0,0,0,1,1,0,0,0,parechovirus 4
+27466726,0,0,0,0,1,1,0,0,0,parechovirus 6
+3665804,0,0,0,0,1,1,0,0,0,parechovirus a
+3644865,0,0,0,0,1,1,0,0,0,parechovirus b
+27548767,0,0,0,0,1,1,0,0,0,parechovirus d
+26341496,1,0,0,0,1,1,0,0,0,pasivirus a
+26552901,1,0,0,0,1,1,0,0,0,passerivirus a
+24641948,0,0,0,0,1,1,0,0,0,bat picornavirus 1
+24641949,0,0,0,0,1,1,0,0,0,bat picornavirus 2
+24641950,0,0,0,0,1,1,0,0,0,bat picornavirus 3
+26745623,0,0,0,0,1,1,0,0,0,bovine hungarovirus
+26745769,0,0,0,0,1,1,0,0,0,bovine picornavirus
+26319046,0,0,0,0,1,1,0,0,0,chicken orivirus 1
+26201220,0,0,0,0,1,1,0,0,0,chicken picornavirus
+27799893,0,0,0,0,1,1,0,0,0,chicken picornavirus 5
+26201218,0,0,0,0,1,1,0,0,0,chicken proventriculitis virus
+26747407,0,0,0,0,1,1,0,0,0,feline picornavirus
+27342556,0,0,0,0,1,1,0,0,0,lesavirus 1
+27342558,0,0,0,0,1,1,0,0,0,lesavirus 2
+27808734,0,0,0,0,1,1,0,0,0,pigeon mesivirus 2
+26302988,0,0,0,0,1,1,0,0,0,rat picornavirus
+27317564,0,0,0,0,1,1,0,0,0,thera virus
+4242139,0,0,0,0,1,1,0,0,0,turkey hepatitis virus
+26201236,0,0,0,0,1,1,0,0,0,turkey picornavirus
+27627803,1,0,0,0,1,1,0,0,0,rabovirus a
+26310408,0,0,0,0,1,1,0,0,0,rosavirus a
+27501990,0,0,0,0,1,1,0,0,0,rosavirus b
+27725003,0,0,0,0,1,1,0,0,0,rosavirus c
+26747761,0,0,0,0,1,1,0,0,0,sakobuvirus a
+27593630,0,0,0,0,1,1,0,0,0,human salivirus
+26346802,0,0,0,0,1,1,0,0,0,salivirus a
+24641374,0,0,0,0,1,1,0,0,0,california sea lion sapelovirus 1
+4067497,0,0,0,0,1,1,0,0,0,sapelovirus a
+4067498,0,0,0,0,1,1,0,0,0,sapelovirus b
+3839662,1,0,0,0,1,1,0,0,0,senecavirus a
+26347992,1,0,0,0,1,1,0,0,0,sicinivirus a
+3595892,1,0,0,0,1,1,0,0,0,teschovirus a
+3512925,0,0,0,0,1,1,0,0,0,tremovirus a
+26205298,0,0,0,0,0,1,0,0,0,bat sobemovirus
+26745793,1,0,0,0,1,1,1,0,0,bovine nidovirus 1
+3519494,1,0,0,0,1,1,1,0,0,bovine torovirus
+3507893,1,0,0,0,1,1,1,0,0,human torovirus
+3704110,1,0,0,0,1,1,1,0,0,porcine torovirus
+3435773,0,0,0,0,0,0,0,0,1,barmah forest virus
+3455173,0,0,1,0,0,0,0,0,1,chikungunya virus
+3435775,0,0,0,0,0,0,0,0,1,eastern equine encephalitis virus
+3474951,0,0,0,0,0,0,0,0,1,fort morgan virus
+3493921,0,0,1,0,0,0,0,0,1,getah virus
+3435781,0,0,0,0,0,0,0,0,1,highlands j virus
+26532010,0,0,0,0,0,0,0,0,1,madariaga virus
+3493923,0,0,0,0,0,0,0,0,1,mayaro virus
+3435779,0,0,0,0,0,0,0,0,1,middelburg virus
+3493925,0,0,0,0,0,0,0,0,1,ndumu virus
+3435783,0,0,0,0,0,0,0,0,1,onyong-nyong virus
+3496721,0,0,0,0,0,0,0,0,1,pixuna virus
+3787098,0,0,0,0,0,0,0,0,1,rio negro virus
+3435787,0,0,1,1,0,0,0,0,1,ross river virus
+3435795,0,0,0,0,0,0,0,0,1,semliki forest virus
+3435797,0,0,0,0,0,0,0,0,1,sindbis virus
+26348418,0,0,0,0,0,0,0,0,1,southern elephant seal virus
+3493929,0,0,0,0,0,0,0,0,1,una virus
+3435799,0,0,1,0,0,0,0,0,1,venezuelan equine encephalitis virus
+3435805,0,0,0,0,0,0,0,0,1,western equine encephalitis virus
+3435809,1,0,1,1,0,0,1,1,0,rubella virus
+26302930,1,0,0,1,0,0,1,1,0,bobomene virus
+26302920,1,0,0,1,0,0,1,1,0,cardamones virus
+3879777,1,0,0,1,0,0,1,1,0,kodoko virus
+26302838,1,0,0,1,0,0,1,1,0,middle pease river virus
+26302888,1,0,0,1,0,0,1,1,0,natorduori virus
+26302932,1,0,0,1,0,0,1,1,0,omdraaivlei virus
+26302974,1,0,0,1,0,0,1,1,0,patawa virus
+26302934,1,0,0,1,0,0,1,1,0,witsand virus
+4242120,1,0,0,1,0,0,1,1,0,gbagroube virus
+3924930,1,0,0,1,0,0,1,1,0,pinhal virus
+3620060,1,0,0,1,0,0,1,1,0,allpahuayo mammarenavirus
+3436479,1,0,0,1,0,0,1,1,0,argentinian mammarenavirus
+3664030,1,0,0,1,0,0,1,1,0,bear canyon mammarenavirus
+3469976,1,0,0,1,0,0,1,1,0,brazilian mammarenavirus
+3436501,1,0,0,1,0,0,1,1,0,cali mammarenavirus
+3937512,1,0,0,1,0,0,1,1,0,chapare mammarenavirus
+26302966,1,0,0,1,0,0,1,1,0,gairo mammarenavirus
+3469108,1,0,0,1,0,0,1,1,0,guanarito mammarenavirus
+3436481,1,0,0,1,0,0,1,1,0,lassa mammarenavirus
+3469112,1,0,0,1,0,0,1,1,0,latino mammarenavirus
+26302922,1,0,0,1,0,0,1,1,0,loei river mammarenavirus
+4035530,1,0,0,1,0,0,1,1,0,lujo mammarenavirus
+24333459,1,0,0,1,0,0,1,1,0,luna mammarenavirus
+26752259,1,0,0,1,0,0,1,1,0,lunk mammarenavirus
+3436487,1,0,0,1,0,0,1,1,0,lymphocytic choriomeningitis mammarenavirus
+3436497,1,0,0,1,0,0,1,1,0,machupo mammarenavirus
+26303038,1,0,0,1,0,0,1,1,0,mariental mammarenavirus
+4097735,1,0,0,1,0,0,1,1,0,merino walk mammarenavirus
+3486443,1,0,0,1,0,0,1,1,0,mobala mammarenavirus
+3436499,1,0,0,1,0,0,1,1,0,mopeia mammarenavirus
+3997611,1,0,0,1,0,0,1,1,0,morogoro mammarenavirus
+26303040,1,0,0,1,0,0,1,1,0,okahandja mammarenavirus
+3464980,1,0,0,1,0,0,1,1,0,oliveros mammarenavirus
+3477265,1,0,0,1,0,0,1,1,0,pirital mammarenavirus
+26303034,1,0,0,1,0,0,1,1,0,ryukyu mammarenavirus
+3469106,1,0,0,1,0,0,1,1,0,serra do navio mammarenavirus
+3436503,1,0,0,1,0,0,1,1,0,tacaribe mammarenavirus
+3469116,1,0,0,1,0,0,1,1,0,tamiami mammarenavirus
+26302786,1,0,0,1,0,0,1,1,0,wenzhou mammarenavirus
+3472147,1,0,0,1,0,0,1,1,0,whitewater arroyo mammarenavirus
+4057179,1,0,0,1,0,0,0,1,0,avian bornavirus
+26205120,1,0,0,1,0,0,0,1,0,bat bornavirus
+3437710,1,0,0,1,0,0,0,1,0,borna disease virus
+26334994,1,0,0,1,1,1,0,1,0,mammalian 1 orthobornavirus
+26302798,1,0,0,1,1,1,0,1,0,mammalian 2 orthobornavirus
+26201272,1,0,0,1,1,1,0,1,0,parrot bornavirus 8
+26310410,1,0,0,1,1,1,0,1,0,passeriform 1 orthobornavirus 
+26341506,1,0,0,1,1,1,0,1,0,passeriform 2 orthobornavirus 
+26200966,1,0,0,1,1,1,0,1,0,psittaciform 1 orthobornavirus
+26200970,1,0,0,1,1,1,0,1,0,psittaciform 2 orthobornavirus 
+26201278,1,0,0,1,1,1,0,1,0,waterbird 1 orthobornavirus
+26205314,1,0,0,1,1,1,1,1,1,lloviu cuevavirus
+3991856,1,0,0,1,0,0,0,0,0,bundibugyo ebolavirus
+3658151,1,0,0,1,0,0,1,1,0,reston ebolavirus
+3658152,1,0,0,1,0,0,1,1,0,sudan ebolavirus
+23538934,1,0,0,1,0,0,0,0,0,tai forest ebolavirus
+3658150,1,1,0,1,0,1,0,0,0,zaire ebolavirus
+26205174,1,0,0,1,0,0,0,0,0,bat filovirus
+3436199,1,0,0,1,0,0,0,0,0,marburg marburgvirus
+26205104,1,0,0,1,0,0,1,1,0,longquan loanvirus
+4045315,1,0,0,1,0,0,1,1,0,nova mobatvirus
+26303148,1,0,0,1,0,0,1,1,0,quezon mobatvirus
+26302996,1,0,0,1,0,0,1,1,0,adler hantavirus
+3953012,1,0,0,1,0,0,1,1,0,altai virus
+3725788,1,0,0,1,0,0,1,1,0,alto paraguay hantavirus
+26302950,1,0,0,1,0,0,1,1,0,amga orthohantavirus
+3541335,1,0,0,1,0,0,1,1,0,amur virus
+3471595,1,0,0,1,0,0,1,1,0,andes orthohantavirus
+4077862,1,0,0,1,0,0,1,1,0,ape aime-itapua virus
+3765044,1,0,0,1,0,0,1,1,0,araucaria virus
+3953011,1,0,0,1,0,0,1,1,0,artybash virus
+3991076,1,0,0,1,0,0,1,1,0,asama orthohantavirus
+3907869,1,0,0,1,0,0,1,1,0,ash river virus
+26302884,1,0,0,1,0,0,1,1,0,asikkala orthohantavirus
+26205110,1,0,0,1,0,0,1,1,0,asturias virus
+24583981,1,0,0,1,0,0,1,1,0,azagny virus
+3456588,1,0,0,1,0,0,1,1,0,bayou orthohantavirus
+3459597,1,0,0,1,0,0,1,1,0,black creek canal orthohantavirus
+26302856,1,0,0,1,0,0,1,1,0,boginia virus
+26302902,1,0,0,1,0,0,1,1,0,bowe orthohantavirus
+26303116,1,0,0,1,0,0,1,1,0,brno virus
+26303092,1,0,0,1,0,0,1,1,0,bruges orthohantavirus
+3641981,1,0,0,1,0,0,1,1,0,calabazo virus
+3903023,1,0,0,1,0,0,1,1,0,camp ripley virus
+3495359,1,0,0,1,0,0,1,1,0,cano delgadito orthohantavirus
+3894939,1,0,0,1,0,0,1,1,0,cao bang orthohantavirus
+4250804,1,0,0,1,0,0,1,1,0,carrizal virus
+3797990,1,0,0,1,0,0,1,1,0,catacamas virus
+3641980,1,0,0,1,0,0,1,1,0,choclo orthohantavirus
+4217989,1,0,0,1,0,0,1,1,0,dahonggou creek virus
+3437742,1,0,0,1,0,0,1,1,0,dobrava-belgrade orthohantavirus
+3452242,1,0,0,1,0,0,1,1,0,el moro canyon orthohantavirus
+26303128,1,0,0,1,0,0,1,1,0,fugong orthohantavirus
+26302864,1,0,0,1,0,0,1,1,0,gou virus
+3436450,1,0,0,1,0,0,1,1,0,hantaan orthohantavirus
+26302806,1,0,0,1,0,0,1,1,0,hokkaido virus
+26302878,1,0,0,1,0,0,1,1,0,huangpi virus
+4250805,1,0,0,1,0,0,1,1,0,huitzilac virus
+3463805,1,0,0,1,0,0,1,1,0,isla vista hantavirus
+3725789,1,0,0,1,0,0,1,1,0,itapua hantavirus
+3881301,1,0,0,1,0,0,1,1,0,jabora virus
+24580125,1,0,0,1,0,0,1,1,0,jeju orthohantavirus
+3907868,1,0,0,1,0,0,1,1,0,jemez springs virus
+3876175,1,0,0,1,0,0,1,1,0,juquitiba virus
+4114189,1,0,0,1,0,0,1,1,0,kenkeme orthohantavirus
+3465211,1,0,0,1,0,0,1,1,0,khabarovsk orthohantavirus
+26302956,1,0,0,1,0,0,1,1,0,korf virus
+3497225,1,0,0,1,0,0,1,1,0,laguna negra orthohantavirus
+26302880,1,0,0,1,0,0,1,1,0,lianghe virus
+3615086,1,0,0,1,0,0,1,1,0,limestone canyon virus
+26302994,1,0,0,1,0,0,1,1,0,lohja virus
+26303154,1,0,0,1,0,0,1,1,0,makokou virus
+4039856,1,0,0,1,0,0,1,1,0,maripa hantavirus
+4250803,1,0,0,1,0,0,1,1,0,montano orthohantavirus
+26302822,1,0,0,1,0,0,1,1,0,mouyassue virus
+3472843,1,0,0,1,0,0,1,1,0,muleshoe hantavirus
+26205106,1,0,0,1,0,0,1,1,0,necocli orthohantavirus
+3952288,1,0,0,1,0,0,1,1,0,neomys anomalus hantavirus
+3468301,1,0,0,1,0,0,1,1,0,new york virus
+3714775,1,0,0,1,0,0,1,1,0,newfound gap hantavirus
+4045314,1,0,0,1,0,0,1,1,0,oxbow orthohantavirus
+3897026,1,0,0,1,0,0,1,1,0,playa de oro hantavirus
+3455803,1,0,0,1,0,0,1,1,0,prairie vole hantavirus
+3436456,1,0,0,1,0,0,1,1,0,prospect hill orthohantavirus
+3436458,1,0,0,1,0,0,1,1,0,puumala orthohantavirus
+4099241,1,0,0,1,0,0,1,1,0,qian hu shan virus
+3472149,1,0,0,1,0,0,1,1,0,rio mamore hantavirus
+3455314,1,0,0,1,0,0,1,1,0,rio segundo hantavirus
+24583980,1,0,0,1,0,0,1,1,0,rockport orthohantavirus
+26205328,1,0,0,1,0,0,1,1,0,rodent hantavirus
+3810695,1,0,0,1,0,0,1,1,0,sangassou orthohantavirus
+26302904,1,0,0,1,0,0,1,1,0,sarufutsu virus
+3893898,1,0,0,1,0,0,1,1,0,seewis orhtohantavirus
+3436464,1,0,0,1,0,0,1,1,0,seoul orthohantavirus
+3960787,1,0,0,1,0,0,1,1,0,serang virus
+26205330,1,0,0,1,0,0,1,1,0,shrew hantavirus
+3456178,1,0,0,1,0,0,1,1,0,sin nombre orthohantavirus
+3745764,1,0,0,1,0,0,1,1,0,soochong virus
+3952289,1,0,0,1,0,0,1,1,0,sorex araneus hantavirus
+3871154,1,0,0,1,0,0,1,1,0,tanganya virus
+26302876,1,0,0,1,0,0,1,1,0,tatenale virus
+26205332,1,0,0,1,0,0,1,1,0,thailand orthohantavirus
+26302862,1,0,0,1,0,0,1,1,0,tigray hantavirus
+3534967,1,0,0,1,0,0,1,1,0,topografov hantavirus
+26205336,1,0,0,1,0,0,1,1,0,tula orthohantavirus
+26302992,1,0,0,1,0,0,1,1,0,uurainen virus
+26302906,1,0,0,1,0,0,1,1,0,xinyi virus
+26302870,1,0,0,1,0,0,1,1,0,xuan son virus
+26205108,1,0,0,1,0,0,1,1,0,yakeshi orthohantavirus
+26302968,1,0,0,1,0,0,1,1,0,yuanjiang virus
+3909481,1,0,0,1,0,0,1,1,0,imjin thottimvirus
+26205334,1,0,0,1,0,0,1,1,0,thottopalayam thottimvirus
+3437732,1,0,0,1,0,0,0,0,0,hepatitis delta virus
+26531940,0,0,0,0,0,0,0,0,1,caspiy virus
+22680835,0,0,0,0,0,0,0,0,1,tamdy virus
+26205212,0,0,0,0,0,0,0,0,1,bat nairovirus
+3436438,0,0,0,1,0,0,0,1,1,crimean-congo hemorrhagic fever orthonairovirus
+3713728,0,0,0,0,0,0,0,0,1,dera ghazi khan orthonairovirus
+3436442,0,0,0,0,0,0,0,0,1,dugbe orthonairovirus
+22682273,0,0,0,0,0,0,0,0,1,issyk-kul virus
+22681961,0,0,0,0,0,0,0,0,1,kasokero orthonairovirus
+26532004,0,0,0,0,0,0,0,0,1,leopards hill virus
+3713732,0,0,0,0,0,0,0,0,1,thiafora orthonairovirus
+26532126,0,0,0,0,0,0,0,0,1,uzun agach virus
+22680739,0,0,0,0,0,0,0,0,1,yogue virus
+3436278,1,0,0,1,1,1,1,1,0,influenza a virus
+3436338,1,0,0,1,1,1,1,1,0,influenza b virus
+26331886,1,0,0,1,0,0,1,1,0,influenza d virus
+3436385,1,0,0,1,0,0,1,1,0,influenza c virus
+3436272,1,0,0,1,0,0,1,1,0,fowl plague virus
+27599412,1,0,0,1,0,0,1,1,0,wellfleet bay virus
+3805214,0,0,0,0,0,0,0,0,1,araguari virus
+26536111,0,0,0,0,0,0,0,0,1,bourbon virus
+3436274,0,0,0,0,0,0,0,0,1,dhori thogotovirus
+3436405,0,0,0,0,0,0,0,0,1,thogoto thogotovirus
+3436049,1,0,0,0,0,0,0,0,0,avian avulavirus 1
+3452218,1,0,0,0,0,0,0,0,0,avian avulavirus 2 
+4172792,1,0,0,0,0,0,0,0,0,avian paramyxovirus 10
+26201284,1,0,0,0,0,0,0,0,0,avian paramyxovirus 11
+26201286,1,0,0,0,0,0,0,0,0,avian paramyxovirus 12
+3677186,1,0,0,0,0,0,0,0,0,avian paramyxovirus 3
+3442077,1,0,0,0,0,0,0,0,0,avian paramyxovirus 4
+4095336,1,0,0,0,0,0,0,0,0,avian paramyxovirus 5
+3631388,1,0,0,0,0,0,0,0,0,avian paramyxovirus 6
+4019115,1,0,0,0,0,0,0,0,0,avian paramyxovirus 7
+4019431,1,0,0,0,0,0,0,0,0,avian paramyxovirus 8
+4002536,1,0,0,0,0,0,0,0,0,avian paramyxovirus 9
+27240946,1,0,0,1,0,0,0,0,0,cedar henipavirus
+3500937,1,1,0,1,0,0,0,0,0,hendra henipavirus
+27573242,1,0,0,1,0,0,0,0,0,mojiang henipavirus
+3599170,1,0,0,1,0,1,0,1,0,nipah henipavirus
+3795426,1,0,0,0,0,0,1,0,0,beilong jeilongvirus
+3777906,1,0,0,0,0,0,1,0,0,jun jeilongvirus
+27220142,1,0,0,0,0,0,1,0,0,tailam jeilongvirus
+3436134,1,0,0,1,0,0,1,0,0,canine morbillivirus
+3454019,1,0,0,0,0,0,1,0,0,cetacean morbillivirus
+26745893,1,0,0,0,0,0,1,0,0,feline morbillivirus
+26745977,1,0,0,0,0,0,1,0,0,hawaiian cetacean morbillivirus
+3436138,1,0,0,1,0,0,1,0,0,measles morbillivirus
+3436150,1,0,0,0,0,0,1,0,0,phocine morbillivirus
+3436152,1,0,0,0,0,0,1,1,0,rinderpest morbillivirus
+3446965,1,0,0,0,0,0,1,0,0,small ruminant morbillivirus
+3708175,1,0,0,0,0,0,1,0,0,mossman narmovirus
+4009759,1,0,0,0,0,0,1,0,0,nariva narmovirus
+3550952,1,0,0,0,0,0,1,0,0,tupaia narmovirus
+26205218,1,1,0,1,0,0,1,0,0,bat paramyxovirus
+3624076,1,0,0,0,0,0,1,0,0,canine parainfluenza virus
+27726935,1,0,0,0,0,0,1,0,0,eidolon helvum paramyxovirus
+27655255,1,0,0,0,0,0,1,0,0,geelong paramyxovirus
+27508497,1,0,0,0,0,0,1,0,0,miniopterus griveaudi paramyxovirus
+27755949,1,0,0,0,0,0,1,0,0,miniopterus schreibersii paramyxovirus
+27317882,1,0,0,0,0,0,1,0,0,pteropus alecto paramyxovirus
+27317890,1,0,0,0,0,0,1,0,0,pteropus conspicillatus paramyxovirus
+27317884,1,0,0,0,0,0,1,0,0,pteropus poliocephalus paramyxovirus
+27597694,1,0,0,0,0,0,1,0,0,pteropus scapulatus paramyxovirus
+27755953,1,0,0,0,0,0,1,0,0,rhinolophus ferrumequinum paramyxovirus
+27578400,1,0,0,0,0,0,1,1,0,rodent paramyxovirus
+27861900,1,0,0,0,0,0,1,0,0,soricidae paramyxovirus
+27861898,1,0,0,0,0,0,1,1,0,tenrec paramyxovirus
+27246132,1,0,0,0,0,0,1,0,0,triaenops menamena paramyxovirus
+27655257,1,0,0,0,0,0,1,0,0,yarra bend paramyxovirus
+27250094,1,0,0,0,0,0,1,0,0,achimota pararubulavirus 1
+27250096,1,0,0,0,0,0,1,0,0,achimota pararubulavirus 2
+3626534,1,0,0,0,0,0,1,0,0,menangle pararubulavirus
+27294026,1,0,0,0,0,0,1,0,0,sosuga pararubulavirus
+3635448,1,0,0,0,0,0,1,0,0,tioman pararubulavirus
+4119854,1,0,0,0,0,0,1,0,0,tuhoko pararubulavirus 1
+4119855,1,0,0,0,0,0,1,0,0,tuhoko pararubulavirus 2
+4119856,1,0,0,0,0,0,1,0,0,tuhoko pararubulavirus 3
+3436105,1,0,0,0,0,0,1,0,0,bovine respirovirus 3
+3437808,1,0,0,0,0,0,1,0,0,human respirovirus 1
+3436107,1,0,0,1,0,0,1,0,0,human respirovirus 3
+3436078,1,0,0,1,0,0,1,0,0,murine respirovirus
+27064426,1,0,0,0,0,0,1,0,0,porcine respirovirus 1
+3942607,1,0,0,0,0,0,1,0,0,swine parainfluenza virus 3
+3913068,1,0,0,0,0,0,1,0,0,tursiops truncatus parainfluenza virus 1
+3436099,1,0,0,0,0,0,1,0,0,human rubulavirus 2
+3436089,1,0,0,0,0,0,1,0,0,human rubulavirus 4
+3436091,1,0,0,0,0,0,1,0,0,mammalian rubulavirus 5
+3465473,1,0,0,0,0,0,1,0,0,mapuera rubulavirus
+3436019,1,0,0,0,0,0,1,1,0,mumps rubulavirus
+3717283,1,0,0,0,0,0,1,0,0,porcine parainfluenza virus
+3483026,1,0,0,0,0,0,1,0,0,porcine rubulavirus
+3512557,0,0,1,0,0,0,0,0,1,akabane orthobunyavirus
+3531123,0,0,0,0,0,0,0,0,1,batai orthobunyavirus
+3452222,0,0,1,0,0,0,0,0,1,bunyamwera orthobunyavirus
+3452234,0,0,0,0,0,0,0,0,1,bwamba orthobunyavirus
+3531109,0,0,0,0,0,0,0,0,1,cache valley orthobunyavirus
+3452224,0,0,0,0,0,0,0,0,1,california encephalitis orthobunyavirus
+3816996,0,0,0,0,0,0,0,0,1,calovo virus
+23539124,0,0,0,0,0,0,0,0,1,capim orthobunyavirus
+3663424,0,0,0,0,0,0,0,0,1,caraparu orthobunyavirus
+22681423,0,0,0,0,0,0,0,0,1,catu orthobunyavirus
+23539130,0,0,0,0,0,0,0,0,1,guajara orthobunyavirus
+26329468,0,0,0,0,0,0,0,0,1,guama orthobunyavirus
+3624523,0,0,0,0,0,0,0,0,1,jatobal orthobunyavirus
+3764111,0,0,0,0,0,0,0,0,1,kaeng khoi orthobunyavirus
+3801754,0,0,0,0,0,0,0,0,1,madrid orthobunyavirus
+3531115,0,0,0,0,0,0,0,0,1,main drain orthobunyavirus
+3632764,0,0,0,0,0,0,0,0,1,manzanilla orthobunyavirus
+3750838,0,0,0,0,0,0,0,0,1,marituba orthobunyavirus
+3663427,0,0,0,0,0,0,0,0,1,oriboca orthobunyavirus
+26531988,0,0,0,0,0,0,0,0,1,oropouche orthobunyavirus
+3632766,0,0,0,0,0,0,0,0,1,sathuperi orthobunyavirus
+25865481,0,0,1,0,0,0,0,0,1,schmallenberg orthobunyavirus
+3632773,0,0,0,0,0,0,0,0,1,shamonda orthobunyavirus
+3632771,0,0,0,0,0,0,0,0,1,shuni orthobunyavirus
+3452226,0,0,1,0,0,0,0,0,1,simbu orthobunyavirus
+26303030,0,0,0,0,0,0,0,0,1,tataguine orthobunyavirus
+3452238,0,0,0,0,0,0,0,0,1,tete orthobunyavirus
+26532124,0,0,0,0,0,0,0,0,1,utive virus
+3736787,0,0,0,0,0,0,0,0,1,wyeomyia orthobunyavirus
+26532134,0,0,0,0,0,0,0,0,1,zungarococha virus
+26302972,0,0,0,0,0,0,0,0,1,akhtuba virus
+26302928,0,0,0,0,0,0,0,0,1,khurdun virus
+26302896,0,0,0,0,0,0,0,0,1,rhinolophus pearsoni bunyavirus
+26302892,0,0,0,0,0,0,0,0,1,sedlec virus
+26531982,0,0,0,0,0,0,0,0,1,heartland banyangvirus
+4015652,0,0,0,0,0,0,0,0,1,gouleako goukovirus
+4194446,0,0,0,0,0,0,0,0,1,anhanga virus
+4194430,0,0,0,0,0,0,0,0,1,arumowot virus
+22681333,0,0,0,0,0,0,0,0,1,bhanja virus
+4194414,0,0,0,0,0,0,0,0,1,bujaru phlebovirus
+25924812,0,0,0,0,0,0,0,0,1,candiru phlebovirus
+4022304,0,0,0,0,0,0,0,0,1,chagres virus
+4022312,0,0,0,0,0,0,0,0,1,gabek forest virus
+4022311,0,0,0,0,0,0,0,0,1,itaporanga virus
+26532016,0,0,0,0,0,0,0,0,1,malsoor virus
+3436426,0,0,0,0,0,0,0,0,1,punta toro phlebovirus
+3436428,1,0,0,1,0,0,0,0,1,rift valley fever phlebovirus
+4022315,0,0,0,0,0,0,0,0,1,rio grande virus
+3676287,0,0,0,0,0,0,0,0,1,sandfly fever naples phlebovirus
+3442101,0,0,0,0,0,0,0,0,1,sandfly fever sicilian virus
+25865475,0,0,0,0,0,0,0,0,1,sfts phlebovirus
+26532096,0,0,0,0,0,0,0,0,1,silverwater virus
+3436434,0,0,0,0,0,0,0,0,1,uukuniemi phlebovirus
+3457529,1,0,0,0,0,0,1,0,0,avian metapneumovirus
+3635569,1,0,0,0,0,0,1,0,0,human metapneumovirus
+3436161,1,0,0,0,0,0,1,0,0,bovine orthopneumovirus
+3436169,1,0,0,0,0,0,1,0,0,human orthopneumovirus
+3436193,1,0,0,0,0,0,1,0,0,murine orthopneumovirus
+3442987,1,0,0,0,0,0,1,0,0,ovine respiratory syncytial virus
+3437828,1,0,0,0,0,0,1,0,0,respiratory syncytial virus
+27064464,1,0,0,0,0,0,1,0,0,swine pneumovirus
+26747749,1,0,0,0,0,0,1,0,0,canine pneumovirus
+3446981,0,0,0,0,0,0,0,0,1,adelaide river ephemerovirus
+3774942,0,0,0,0,0,0,0,0,1,berrimah ephemerovirus
+3436260,0,0,0,0,0,0,0,0,1,bovine fever ephemerovirus
+3774943,0,0,0,0,0,0,0,0,1,kimberley ephemerovirus
+27314316,0,0,0,0,0,0,0,0,1,koolpinyah ephemerovirus
+27253452,0,0,0,0,0,0,0,0,1,landjia hapavirus
+3670877,0,0,0,0,0,0,0,0,1,mossuril hapavirus
+24562545,0,0,0,0,0,0,0,0,1,barur ledantevirus
+27283494,0,0,0,0,0,0,0,0,1,fikirini ledantevirus
+3830835,0,0,0,0,0,0,0,0,1,kern canyon ledantevirus
+3830840,0,0,0,0,0,0,0,0,1,keuraliba ledantevirus
+27310744,0,0,0,0,0,0,0,0,1,kumasi ledantevirus
+3774956,0,0,0,0,0,0,0,0,1,le dantec ledantevirus
+3830836,0,0,0,0,0,0,0,0,1,mount elgon bat ledantevirus
+24575704,0,0,0,0,0,0,0,0,1,nishimuro ledantevirus
+27515097,0,0,0,0,0,0,0,0,1,oita ledantevirus
+3681667,1,0,0,0,0,0,0,0,0,aravan lyssavirus
+3548822,1,0,0,0,0,0,0,0,0,australian bat lyssavirus
+24639714,1,0,0,0,0,0,0,0,0,bokeloh bat lyssavirus
+3457972,1,0,0,0,0,0,0,0,0,duvenhage lyssavirus
+3490733,1,0,0,0,0,0,0,0,0,european bat 1 lyssavirus
+3490735,1,0,0,0,0,0,0,0,0,european bat 2 lyssavirus
+3457974,1,0,0,0,0,0,0,0,0,european bat lyssavirus
+26205306,1,0,0,0,0,0,0,0,0,gannoruwa bat lyssavirus
+26745593,1,0,0,0,0,0,0,0,0,ikoma lyssavirus
+3715136,1,0,0,0,0,0,0,0,0,irkut lyssavirus
+3704731,1,0,0,0,0,0,0,0,0,khujand lyssavirus
+3457970,1,0,0,0,0,0,0,0,0,lagos bat lyssavirus
+26205312,1,0,0,0,0,0,0,0,0,lleida bat lyssavirus
+3437756,1,0,0,0,0,0,0,0,0,mokola lyssavirus
+3436242,1,0,0,1,0,1,0,0,0,rabies lyssavirus
+4100059,1,0,0,0,0,0,0,0,0,shimoni bat lyssavirus
+26205250,1,0,0,0,0,0,0,0,0,bat rhabdovirus
+4165656,1,0,0,0,0,0,0,0,1,bimbo virus
+26745957,1,0,0,0,0,0,0,0,0,dolphin rhabdovirus
+4165658,1,0,0,0,0,0,0,0,1,garba virus
+3830838,1,0,0,0,0,0,0,0,1,kolongo virus
+4165657,1,0,0,0,0,0,0,0,1,nasoule virus
+4165654,1,0,0,0,0,0,0,0,1,ouango virus
+3830834,1,0,0,0,0,0,0,0,1,sandjimba virus
+27301514,1,0,0,0,0,0,0,0,1,sunguru virus
+4113808,0,0,0,0,0,0,0,0,1,coastal plains tibrovirus
+3774952,0,0,0,0,0,0,0,0,1,tibrogargan tibrovirus
+4197210,0,0,0,0,0,0,0,0,1,klamath tupavirus
+3436205,0,0,0,0,0,0,0,0,1,chandipura vesiculovirus
+3436212,1,0,0,0,0,0,0,0,1,indiana vesiculovirus
+3748785,0,0,0,0,0,0,0,0,1,isfahan vesiculovirus
+3436218,1,0,0,0,0,0,0,0,1,new jersey vesiculovirus
+3436209,0,0,0,0,0,0,0,0,1,piry vesiculovirus
+3436211,1,0,0,0,0,0,0,0,1,vesicular stomatitis virus
+3436857,1,0,1,0,1,1,0,0,0,avian leukosis virus
+3436859,1,0,1,0,0,0,0,0,0,avian myeloblastosis virus
+3436967,1,0,1,0,0,0,0,0,0,avian myeloblastosis-associated virus
+3436961,1,0,1,0,0,0,0,0,0,avian retrovirus
+3436877,1,0,1,0,0,0,0,0,0,avian sarcoma virus
+3436969,1,0,1,0,0,0,0,0,0,lymphoproliferative disease virus
+3436895,1,0,1,0,0,0,0,0,0,rous sarcoma virus
+27743891,1,0,1,0,0,0,0,0,0,tasmanian devil retrovirus
+27357253,0,0,1,1,0,1,0,0,0,desmodus rotundus endogenous retrovirus
+3796036,1,0,0,1,0,1,0,0,0,human mammary tumor virus
+3436687,1,0,0,1,0,1,0,0,0,jaagsiekte sheep retrovirus
+3436844,1,0,0,1,0,1,0,0,0,mason-pfizer monkey virus
+3436701,1,0,0,1,0,1,0,0,0,mouse mammary tumor virus
+3510888,1,0,0,1,0,1,0,0,0,ovine enzootic nasal tumor virus
+4094489,1,0,0,1,0,1,0,0,0,simian retrovirus 4
+3816314,1,0,0,1,0,1,0,0,0,simian retrovirus 7
+26205466,1,0,0,1,0,1,0,0,0,simian retrovirus 8
+3436846,1,0,0,1,0,1,0,0,0,squirrel monkey retrovirus
+3677281,1,0,1,1,0,0,0,0,0,bovine foamy virus
+3436906,0,1,1,1,0,0,0,0,0,bovine leukemia virus
+3774452,0,1,1,1,0,0,0,0,0,human t-lymphotropic virus 4
+3665273,0,1,1,1,0,1,0,0,0,primate t-lymphotropic virus 1
+3665274,0,1,1,1,0,1,0,0,0,primate t-lymphotropic virus 2
+3665276,0,1,1,1,0,0,0,0,0,primate t-lymphotropic virus 3
+3920881,0,1,1,1,0,0,0,0,0,simian t-cell lymphotropic virus 6
+3483030,1,0,1,1,0,0,0,0,0,feline foamy virus
+3667063,0,0,1,1,0,1,0,0,0,baboon endogenous virus
+26205186,0,0,1,1,0,0,0,0,0,bat gammaretrovirus
+26201250,1,0,1,1,0,1,0,1,0,duck infectious anemia virus
+27760337,1,1,1,1,0,0,0,0,0,echidna erv
+3436717,1,0,1,1,0,1,0,0,0,feline leukemia virus
+3436824,0,0,1,1,0,0,0,0,0,gibbon ape leukemia virus
+3436779,0,0,1,0,0,0,0,0,0,kirsten murine sarcoma virus
+3843437,0,0,1,0,0,0,0,0,0,koala retrovirus
+3436781,0,0,1,0,0,0,0,0,0,moloney murine sarcoma virus
+3436743,1,0,1,1,0,1,0,0,0,murine leukemia virus
+4242142,0,0,1,1,0,1,0,0,0,odocoileus hemionus endogenous retrovirus
+3821375,0,0,1,0,0,0,0,0,0,porcine type-c oncovirus
+3436507,1,0,1,1,0,0,0,0,0,reticuloendotheliosis virus
+3436978,0,0,1,0,0,0,0,0,0,woolly monkey sarcoma virus
+3436531,1,1,1,1,0,0,0,0,0,bovine immunodeficiency virus
+3546353,1,1,1,1,0,1,1,1,0,brazilian caprine lentivirus
+3436532,1,1,1,1,0,1,1,1,0,caprine arthritis encephalitis virus
+3642667,1,1,0,1,0,0,0,0,0,caprine lentivirus
+3436542,1,1,1,1,0,1,0,0,1,equine infectious anemia virus
+3436558,1,1,1,1,0,1,0,0,0,feline immunodeficiency virus
+3436564,0,1,1,1,0,0,0,0,0,human immunodeficiency virus 1
+3436625,0,1,1,1,0,0,0,0,0,human immunodeficiency virus 2
+3436538,1,1,1,1,0,1,1,1,0,ovine lentivirus
+3719277,1,1,1,1,0,1,1,0,0,ovine progressive pneumonia virus
+3437824,1,1,1,1,0,0,0,0,0,puma lentivirus
+3436648,1,1,1,1,0,0,0,0,0,simian immunodeficiency virus
+3491033,0,1,1,1,0,0,0,0,0,simian-human immunodeficiency virus
+3436677,1,1,1,1,0,1,1,0,0,visna-maedi virus
+27786492,0,0,1,1,0,0,0,0,0,eidolon helvum lung retrovirus 1
+27786494,0,0,1,1,0,0,0,0,0,eidolon helvum throat retrovirus 1
+3436809,0,0,1,1,0,1,0,0,0,human endogenous retrovirus
+27308710,0,0,1,1,0,0,0,0,0,melomys burtoni retrovirus
+3436982,0,0,1,1,0,0,0,0,0,myeloproliferative leukemia virus
+3600692,0,0,1,0,0,0,0,0,0,simian retrovirus 5
+3577019,0,0,1,0,0,0,0,0,0,simian retrovirus 6
+24576764,0,0,1,0,0,0,0,0,0,simian retrovirus y
+3925361,0,0,1,1,0,0,0,0,0,simian t-cell lymphotropic virus 5
+3792643,1,0,1,1,0,0,0,0,0,african green monkey simian foamy virus
+3793032,1,0,1,1,0,0,0,0,0,macaque simian foamy virus
+3436513,1,0,1,1,0,0,0,0,0,simian foamy virus
+3437784,0,1,1,1,0,0,0,0,0,duck hepatitis b virus
+3442107,0,1,1,1,0,0,0,0,0,heron hepatitis b virus
+26201238,0,1,1,1,0,0,0,0,0,parrot hepatitis b virus
+26205190,0,1,1,1,0,0,0,0,0,bat hepatitis virus
+3434880,0,1,1,1,0,0,0,0,0,ground squirrel hepatitis virus
+3434882,0,1,1,1,0,0,0,0,0,hepatitis b virus
+27304566,0,1,1,1,0,0,0,0,0,roundleaf bat hepatitis b virus
+27792520,0,1,1,1,0,0,0,0,0,tent-making bat hepatitis b virus
+3452164,0,1,1,1,0,0,0,0,0,woodchuck hepatitis virus
+3509107,0,1,1,1,0,0,0,0,0,woolly monkey hepatitis b virus
+2169997,1,0,0,1,0,0,1,1,0,souris mammarenavirus
+2169996,1,0,0,1,0,0,1,1,0,serra do navio mammarenavirus
+3469114,1,0,0,1,0,0,1,1,0,paraguayan mammarenavirus
+27586130,1,0,0,1,0,0,1,1,0,solwezi mammarenavirus
+3678786,1,0,0,1,0,0,1,1,0,cupixi mammarenavirus
+3486441,1,0,0,1,0,0,1,1,0,ippy mammarenavirus
+3469110,1,0,0,1,0,0,1,1,0,flexal mammarenavirus
+2050008,1,0,0,1,0,0,1,1,0,jerboa arenavirus
+3479737,1,0,0,1,0,0,1,1,0,pampa virus
+26752689,1,0,0,1,0,0,1,1,0,praomys arenavirus
+24322795,1,0,0,1,0,0,1,1,0,black mesa virus
+24322794,1,0,0,1,0,0,1,1,0,orogrande virus
+4242121,1,0,0,1,0,0,1,1,0,menekre virus
+3922446,1,0,0,1,0,0,1,1,0,dandenong virus
+2499618,1,1,0,1,0,0,1,0,0,muarterivirus afrigant 
+2499621,1,1,0,1,0,0,1,0,0,lambdaarterivirus afriporav
+26205538,1,1,0,1,0,0,1,0,0,monkey arterivirus
+2012620,1,1,0,1,0,0,1,0,0,olivier's shrew virus 2
+2116538,1,1,0,1,0,0,1,0,0,olivier's shrew virus 3
+26303112,1,1,0,1,0,0,1,0,0,rat arterivirus 2
+26303114,1,1,0,1,0,0,1,0,0,rat arterivirus 3
+26303108,1,1,0,1,0,0,1,0,0,rat arterivirus 4
+2501969,1,1,0,1,0,0,1,0,0,etaarterivirus ugarco 1
+2499685,1,1,0,1,0,0,1,0,0,betaarterivirus suid 2
+3435823,1,1,0,1,0,0,1,0,0,betaarterivirus suid 1
+2501948,1,1,0,1,0,0,1,0,0,iotaarterivirus kibreg 1
+2501947,1,1,0,1,0,0,1,0,0,iotaarterivirus debrazmo
+27682608,1,1,0,1,0,0,1,0,0,epsilonarterivirus safriver
+2501964,1,1,0,1,0,0,1,0,0,epsilonarterivirus hemcep
+2499932,1,1,0,1,0,0,1,0,0,zetaarterivirus ugarco 1
+26201276,1,0,0,1,0,0,0,1,0,parrot bornavirus 6
+3948504,1,0,0,0,1,1,0,0,0,recovirus a
+1743398,1,0,0,0,1,1,0,1,0,hare calicivirus
+24641378,1,0,0,0,1,1,0,0,0,california sea lion sapovirus 2
+2171392,1,0,0,0,1,1,0,0,0,murine sapovirus
+2161805,1,0,0,0,1,1,0,0,0,marmot sapovirus
+1959930,1,0,0,0,1,1,0,0,0,bat sapovirus
+3628277,1,0,0,0,1,1,0,0,0,mink enteric sapovirus
+2592510,1,0,0,0,1,1,0,0,0,pink-eared duck calicivirus ii
+2592509,1,0,0,0,1,1,0,0,0,pink-eared duck calicivirus i
+2592487,1,0,0,0,1,1,0,0,0,grey teal calicivirus
+2577071,1,0,0,0,1,1,0,0,0,bat calicvirus c2
+2577070,1,0,0,0,1,1,0,0,0,bat calicvirus c1
+2565394,1,0,0,0,1,1,0,0,0,ruddy turnstone calicivirus
+2212776,1,0,0,0,1,1,0,0,0,shelduck calicivirus
+2212769,1,0,0,0,1,1,0,0,0,ruddy turnstone calicivirus b
+2212768,1,0,0,0,1,1,0,0,0,ruddy turnstone calicivirus a
+2212758,1,0,0,0,1,1,0,0,0,duck calicivirus
+2212749,1,0,0,0,1,1,0,0,0,avocet calicivirus
+2184710,1,0,0,0,1,1,0,0,0,bat calicivirus a10
+2050022,1,0,0,0,1,1,0,0,0,shrew calicivirus
+26201202,1,0,0,0,1,1,0,0,0,goose calicivirus
+1245560,1,0,0,0,1,1,0,0,0,wuharv calicivirus 1
+3793688,1,0,0,0,1,1,0,0,0,swine enteric calicivirus
+2161807,1,0,0,0,1,1,0,1,0,marmot norovirus
+2108212,1,0,0,0,1,1,0,1,0,rhinolophus pusillus norovirus
+2070151,1,0,0,0,1,1,0,1,0,california sea lion norovirus
+26205654,1,0,0,0,1,1,0,1,0,primate norovirus
+3628278,1,0,0,0,0,1,1,0,0,mink calicivirus   
+2587462,1,0,0,0,0,1,1,0,0,san Miguel sea lion virus 12   
+3882048,1,0,0,0,0,1,1,0,0,steller sea lion vesivirus   
+2486204,0,0,1,0,1,1,0,0,0,bat associated circovirus
+1868218,0,0,1,0,1,1,0,0,0,bat associated circovirus 1
+2560338,0,0,1,0,1,1,0,0,0,bat associated circovirus 10
+1868219,0,0,1,0,1,1,0,0,0,bat associated circovirus 2
+1868220,0,0,1,0,1,1,0,0,0,bat associated circovirus 3
+2003310,0,0,1,0,1,1,0,0,0,bat associated circovirus 5
+2003311,0,0,1,0,1,1,0,0,0,bat associated circovirus 6
+2003312,0,0,1,0,1,1,0,0,0,bat associated circovirus 7
+2003313,0,0,1,0,1,1,0,0,0,bat associated circovirus 8
+2169823,0,0,1,0,1,1,0,0,0,bat associated circovirus 9
+2305270,0,0,1,0,1,1,0,0,0,bamboo rat circovirus
+2598785,0,0,1,0,1,1,0,0,0,beaked whale circovirus
+2495901,0,0,1,0,1,1,0,0,0,blue tit circovirus
+1959759,0,0,1,0,1,1,0,0,0,chimpanzee associated circovirus 1
+2016456,0,0,1,0,1,1,0,0,0,giant panda circovirus 1
+2016457,0,0,1,0,1,1,0,0,0,giant panda circovirus 2
+2016458,0,0,1,0,1,1,0,0,0,giant panda circovirus 3
+2016459,0,0,1,0,1,1,0,0,0,giant panda circovirus 4
+1959761,0,0,1,0,1,1,0,0,0,human associated circovirus 1
+1959842,0,0,1,0,1,1,0,0,0,molossus molossus circovirus 1
+1959843,0,0,1,0,1,1,0,0,0,molossus molossus circovirus 2
+1959844,0,0,1,0,1,1,0,0,0,molossus molossus circovirus 3
+1959845,0,0,1,0,1,1,0,0,0,molossus molossus circovirus 4
+2171383,0,0,1,0,1,1,0,0,0,murine circovirus
+1868221,0,0,1,0,1,1,0,0,0,porcine circovirus 3
+2529490,0,0,1,0,1,1,0,0,0,tasmanian devil-associated circovirus 1
+4097579,0,0,1,0,1,1,0,0,0,circovirus ng3
+4097580,0,0,1,0,1,1,0,0,0,circovirus ng1
+27298644,0,0,1,0,1,1,0,0,0,mink circovirus
+2050928,0,0,0,0,1,1,0,0,0,bat associated cyclovirus 1
+1987735,0,0,0,0,1,1,0,0,0,bat associated cyclovirus 10
+1987736,0,0,0,0,1,1,0,0,0,bat associated cyclovirus 11
+1987737,0,0,0,0,1,1,0,0,0,bat associated cyclovirus 12
+1987738,0,0,0,0,1,1,0,0,0,bat associated cyclovirus 13
+2050585,0,0,0,0,1,1,0,0,0,bat associated cyclovirus 2
+2050586,0,0,0,0,1,1,0,0,0,bat associated cyclovirus 3
+2050587,0,0,0,0,1,1,0,0,0,bat associated cyclovirus 4
+2050925,0,0,0,0,1,1,0,0,0,bat associated cyclovirus 5
+1987731,0,0,0,0,1,1,0,0,0,bat associated cyclovirus 6
+1987732,0,0,0,0,1,1,0,0,0,bat associated cyclovirus 7
+1987733,0,0,0,0,1,1,0,0,0,bat associated cyclovirus 8
+1987734,0,0,0,0,1,1,0,0,0,bat associated cyclovirus 9
+2169485,0,0,0,0,1,1,0,0,0,bat cyclovirus
+2050927,0,0,0,0,1,1,0,0,0,bovine associated cyclovirus 1
+26745719,0,0,0,0,1,1,0,0,0,bovine cyclovirus
+1455631,0,0,0,0,1,1,0,0,0,capra hircus cyclovirus
+2109364,0,0,0,0,1,1,0,0,0,chicken associated cyclovirus
+2050596,0,0,0,0,1,1,0,0,0,chicken associated cyclovirus 1
+2109365,0,0,0,0,1,1,0,0,0,chicken associated cyclovirus 2
+26201214,0,0,0,0,1,1,0,0,0,chicken cyclovirus
+2051672,0,0,0,0,1,1,0,0,0,chimpanzee associated cyclovirus 1
+26205622,0,0,0,0,1,1,0,0,0,chimpanzee cyclovirus
+2006585,0,0,0,0,1,1,0,0,0,duck associated cyclovirus 1
+2050926,0,0,0,0,1,1,0,0,0,goat associated cyclovirus 1
+2038719,0,0,0,0,1,1,0,0,0,human associated cyclovirus 1
+2038728,0,0,0,0,1,1,0,0,0,human associated cyclovirus 10
+2169855,0,0,0,0,1,1,0,0,0,human associated cyclovirus 12
+2038720,0,0,0,0,1,1,0,0,0,human associated cyclovirus 2
+2038721,0,0,0,0,1,1,0,0,0,human associated cyclovirus 3
+2038722,0,0,0,0,1,1,0,0,0,human associated cyclovirus 4
+2038723,0,0,0,0,1,1,0,0,0,human associated cyclovirus 5
+2038724,0,0,0,0,1,1,0,0,0,human associated cyclovirus 6
+2038725,0,0,0,0,1,1,0,0,0,human associated cyclovirus 7
+2038727,0,0,0,0,1,1,0,0,0,human associated cyclovirus 9
+1455626,0,0,0,0,1,1,0,0,0,human cyclovirus
+2169856,0,0,0,0,1,1,0,0,0,mouse associated cyclovirus 1
+1908802,0,0,0,0,1,1,0,0,0,mouse cyclovirus
+1987744,0,0,0,0,1,1,0,0,0,squirrel associated cyclovirus 1
+1455628,0,0,0,0,1,1,0,0,0,sus scrofa cyclovirus
+1455627,0,0,0,0,1,1,0,0,0,tadarida brasiliensis cyclovirus
+2555873,1,0,0,1,0,0,1,1,0,xuan son mobatvirus
+26205102,1,0,0,1,0,0,1,1,0,laibin mobatvirus
+3911294,1,0,0,1,0,0,1,1,0,fusong orthohantavirus
+26302820,1,0,0,1,0,0,1,1,0,dabieshan orthohantavirus
+3633082,1,0,0,1,0,0,1,1,0,saaremaa hantavirus
+26205318,1,0,0,1,0,0,1,1,0,luxi orthohantavirus
+26205320,1,0,0,1,0,0,1,1,0,maporal orthohantavirus
+22681635,1,0,0,1,0,0,1,1,0,monongahela hantavirus
+2050012,1,0,0,1,0,0,1,1,0,jerboa hantavirus
+2560807,1,0,0,1,0,0,1,1,0,tigray orthohantavirus
+3665369,0,0,0,0,0,0,0,0,1,nairobi sheep disease orthonairovirus
+26531970,0,0,0,0,0,0,0,0,1,geran virus
+26531976,0,0,0,0,0,0,0,0,1,gossas virus
+26532058,0,0,0,0,0,0,0,0,1,paramushir virus
+1971396,0,0,0,0,0,0,0,0,1,grotenhout virus
+22682669,0,0,0,0,0,0,0,0,1,chim orthonairovirus
+26531918,0,0,0,0,0,0,0,0,1,artashat orthonairovirus
+3665370,0,0,0,0,0,0,0,0,1,sakhalin orthonairovirus
+3713726,0,0,0,0,0,0,0,0,1,qalyub orthonairovirus
+1980525,0,0,0,0,0,0,0,0,1,keterah orthonairovirus
+3713723,0,0,0,0,0,0,0,0,1,hughes orthonairovirus
+3436444,0,0,0,0,0,0,0,0,1,hazara orthonairovirus
+26531934,0,0,0,0,0,0,0,0,1,burana orthonairovirus
+2059308,0,0,0,0,0,0,0,0,1,vinegar hill virus
+3452442,0,0,0,0,0,0,0,0,1,jamestown canyon orthobunyavirus
+2576440,1,0,0,0,0,1,0,0,1,kedah fatal kidney syndrome virus
+3436421,0,0,0,0,0,0,0,0,1,aino orthobunyavirus
+2304618,0,0,0,0,0,0,0,0,1,balagodu virus
+3736782,0,0,0,0,0,0,0,0,1,fort sherman orthobunyavirus
+26531938,0,0,0,0,0,0,0,0,1,calchaqui virus
+22681081,0,0,0,0,0,0,0,0,1,gan gan virus
+26532112,0,0,0,0,0,0,0,0,1,tapirape virus
+2544873,0,0,0,0,0,0,0,0,1,ness ziona virus
+2219998,0,0,0,0,0,0,0,0,1,ntwetwe virus
+26532114,0,0,0,0,0,0,0,0,1,tofla virus
+23539140,0,0,0,0,0,0,0,0,1,thimiri orthobunyavirus
+26532122,0,0,0,0,0,0,0,0,1,utinga orthobunyavirus
+3736784,0,0,0,0,0,0,0,0,1,tensaw orthobunyavirus
+4016918,0,0,0,0,0,0,0,0,1,tacaiuma orthobunyavirus
+3452446,0,0,0,0,0,0,0,0,1,keystone orthobunyavirus
+3632774,0,0,0,0,0,0,0,0,1,peaton orthobunyavirus
+3632775,0,0,0,0,0,0,0,0,1,sango orthobunyavirus
+3531121,0,0,0,0,0,0,0,0,1,guaroa orthobunyavirus
+23539128,0,0,0,0,0,0,0,0,1,gamboa orthobunyavirus
+3736797,0,0,0,0,0,0,0,0,1,potosi orthobunyavirus
+3736778,0,0,0,0,0,0,0,0,1,ilesha orthobunyavirus
+3632770,0,0,0,0,0,0,0,0,1,mermet orthobunyavirus
+3632769,0,0,0,0,0,0,0,0,1,ingwavuma orthobunyavirus
+3531117,0,0,0,0,0,0,0,0,1,kairi orthobunyavirus
+26615974,0,0,0,0,1,1,0,0,0,aalivirus a
+1606765,1,0,0,1,0,1,1,1,0,bovine rhinovirus 1
+3912933,0,0,0,0,1,1,0,0,0,aquamavirus a
+2500545,0,0,0,0,1,1,0,0,0,bear picornavirus 1
+2478654,0,0,0,0,1,1,0,1,0,goat cardiovirus 
+2161811,0,0,0,0,1,1,0,1,0,marmot cardiovirus   
+2069371,0,0,0,0,1,1,0,1,0,rodent cardiovirus 
+2169775,0,0,0,0,1,1,0,0,0,bopivirus a
+4006033,0,0,0,0,1,1,0,0,0,cosavirus b
+4006035,0,0,0,0,1,1,0,0,0,cosavirus d
+4006036,0,0,0,0,1,1,0,0,0,cosavirus e
+2003652,0,0,0,0,1,1,0,0,0,cosavirus f
+2169853,0,0,0,0,1,1,0,0,0,crohivirus a
+2169854,0,0,0,0,1,1,0,0,0,crohivirus b
+2041149,0,0,0,0,1,1,0,0,0,hedgehog dicipivirus
+2169884,1,0,0,0,1,1,1,0,0,enterovirus k
+2560319,1,0,0,0,0,0,0,1,0,avian orthoavulavirus 1
+2560321,1,0,0,0,0,0,0,1,0,avian orthoavulavirus 13
+2560323,1,0,0,0,0,0,0,1,0,avian orthoavulavirus 17
+2560324,1,0,0,0,0,0,0,1,0,avian orthoavulavirus 18
+2560325,1,0,0,0,0,0,0,1,0,avian orthoavulavirus 19
+26201296,1,0,0,0,0,0,0,0,0,avian avulavirus 13
+2169715,1,0,0,0,0,0,0,0,0,avian avulavirus 14
+2169716,1,0,0,0,0,0,0,0,0,avian avulavirus 15
+2169717,1,0,0,0,0,0,0,0,0,avian avulavirus 16
+2067666,1,0,0,0,0,0,0,0,0,avian avulavirus 20
+2094282,1,0,0,0,0,0,0,0,0,avian paramyxovirus 17
+2282853,1,0,0,0,0,0,1,0,0,giant squirrel respirovirus
+26747751,1,0,0,0,0,0,1,0,0,feline pneumovirus
+3715137,1,0,0,0,0,0,0,0,0,west caucasian bat lyssavirus
+3478672,0,0,0,0,0,0,0,0,1,cocal vesiculovirus
+2169402,1,0,0,1,0,0,1,1,0,sphenicid alphaherpesvirus 1
+3452124,1,1,0,0,0,0,0,0,0,ateline herpesvirus 1
